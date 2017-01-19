@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Map with a legend for areas</title>
+    <title>Google News Lab</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <style type="text/css">
@@ -53,8 +53,14 @@
 
         .mapael .map {
             position: relative;
-            left:-50px;
+            left:0px;
         }
+
+        @media (min-width: 1020px) { .mapael .map{
+          position: relative;
+            left:-50px;
+
+        }}
 
         @media (max-width: 1000px) {
 
@@ -64,11 +70,11 @@
 
         }
 
-                @media (max-width: 618px) {
+      @media (max-width: 618px) {
 
                   .mapael .map {
             position: relative;
-            left:0px;
+            left:20px;
         }
 
         }
@@ -379,33 +385,34 @@
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-"Guyane" : {value:"6", tooltip: {content:"<span style=\"font-weight:bold;\">Guyane</span><br />Jean-Luc Bennahmias (UDE)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/jeanluc.png?raw=true' width='100%'>"}, text:{content:"GF", attrs:{fill:"white", "font-size":11}}},
-"Martinique" : {value:"2", tooltip: {content:"<span style=\"font-weight:bold;\">Martinique</span><br />Arnaud Montebourg (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/montebourg.png?raw=true' width='100%'>"}, text:{content:"MQ", attrs:{fill:"white", "font-size":11}}},
-"Guadeloupe" : {value:"4", tooltip: {content:"<span style=\"font-weight:bold;\">Guadeloupe</span><br />Sylvia Pinel (PRG)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/pinel.png?raw=true' width='100%'>"}, text:{content:"GP", attrs:{fill:"white", "font-size":11}}},
-"Mayotte" : {value:"2", tooltip: {content:"<span style=\"font-weight:bold;\">Mayotte</span><br />Arnaud Montebourg (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/montebourg.png?raw=true' width='100%'>"}, text:{content:"MT", attrs:{fill:"white", "font-size":11}}},
-"Réunion" : {value:"1", tooltip: {content:"<span style=\"font-weight:bold;\">Réunion</span><br />Benoît Hamon (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'>"}, text:{content:"RE", attrs:{fill:"white", "font-size":11}}},
-"Bretagne" : {value:"1", tooltip: {content:"<span style=\"font-weight:bold;\">Bretagne</span><br />Benoît Hamon (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'>"}, text:{content:"BT", attrs:{fill:"white", "font-size":11}}},
-"Limousin" : {value:"1", tooltip: {content:"<span style=\"font-weight:bold;\">Limousin</span><br />Benoît Hamon (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'>"}, text:{content:"LM", attrs:{fill:"white", "font-size":11}}},
-"Île-de-France" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Île-de-France</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true' width='100%'>"}, text:{content:"IF", attrs:{fill:"white", "font-size":11}}},
-"Aquitaine" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Aquitaine</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true' width='100%'>"}, text:{content:"AQ", attrs:{fill:"white", "font-size":11}}},
-"Auvergne" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Auvergne</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true' width='100%'>"}, text:{content:"AU", attrs:{fill:"white", "font-size":11}}},
-"Poitou-Charentes" : {value:"1", tooltip: {content:"<span style=\"font-weight:bold;\">Poitou-Charentes</span><br />Benoît Hamon (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'>"}, text:{content:"PT", attrs:{fill:"white", "font-size":11}}},
-"Midi-Pyrénées" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Midi-Pyrénées</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true' width='100%'>"}, text:{content:"MP", attrs:{fill:"white", "font-size":11}}},
-"Pays de la Loire" : {value:"1", tooltip: {content:"<span style=\"font-weight:bold;\">Pays de la Loire</span><br />Benoît Hamon (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'>"}, text:{content:"PL", attrs:{fill:"white", "font-size":11}}},
-"Centre" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Centre</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true' width='100%'>"}, text:{content:"CN", attrs:{fill:"white", "font-size":11}}},
-"Languedoc-Roussillon" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Languedoc-Roussillon</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true' width='100%'>"}, text:{content:"LU", attrs:{fill:"white", "font-size":11}}},
-"Basse-Normandie" : {value:"2", tooltip: {content:"<span style=\"font-weight:bold;\">Basse-Normandie</span><br />Arnaud Montebourg (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/montebourg.png?raw=true' width='100%'>"}, text:{content:"BN", attrs:{fill:"white", "font-size":11}}},
-"Bourgogne" : {value:"2", tooltip: {content:"<span style=\"font-weight:bold;\">Bourgogne</span><br />Arnaud Montebourg (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/montebourg.png?raw=true' width='100%'>"}, text:{content:"BG", attrs:{fill:"white", "font-size":11}}},
-"Rhône-Alpes" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Rhône-Alpes</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true' width='100%'>"}, text:{content:"RA", attrs:{fill:"white", "font-size":11}}},
-"Haute-Normandie" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Haute-Normandie</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true' width='100%'>"}, text:{content:"HT", attrs:{fill:"white", "font-size":11}}},
-"Provence-Alpes-Côte-d'Azur" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Provence-Alpes-Côte-d'Azur</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true' width='100%'>"}, text:{content:"PR", attrs:{fill:"white", "font-size":11}}},
-"Franche-Comté" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Franche-Comté</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true' width='100%'>"}, text:{content:"FC", attrs:{fill:"white", "font-size":11}}},
-"Corse" : {value:"2", tooltip: {content:"<span style=\"font-weight:bold;\">Corse</span><br />Arnaud Montebourg (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/montebourg.png?raw=true' width='100%'>"}, text:{content:"CE", attrs:{fill:"white", "font-size":11}}},
-"Champagne-Ardenne" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Champagne-Ardenne</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true' width='100%'>"}, text:{content:"CG", attrs:{fill:"white", "font-size":11}}},
-"Lorraine" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Lorraine</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true' width='100%'>"}, text:{content:"LE", attrs:{fill:"white", "font-size":11}}},
-"Picardie" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Picardie</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true' width='100%'>"}, text:{content:"PI", attrs:{fill:"white", "font-size":11}}},
-"Alsace" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Alsace</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true' width='100%'>"}, text:{content:"AA", attrs:{fill:"white", "font-size":11}}},
-"Nord-Pas-de-Calais" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Nord-Pas-de-Calais</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true' width='100%'>"}, text:{content:"NP", attrs:{fill:"white", "font-size":11}}},
+"Guyane" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Guyane</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true'>"}, text:{content:"GF", attrs:{fill:"white", "font-size":10}}},
+"Martinique" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Martinique</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true'>"}, text:{content:"MQ", attrs:{fill:"white", "font-size":10}}},
+"Guadeloupe" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Guadeloupe</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true'>"}, text:{content:"GP", attrs:{fill:"white", "font-size":10}}},
+"Mayotte" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Mayotte</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true'>"}, text:{content:"MT", attrs:{fill:"white", "font-size":10}}},
+"Réunion" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Réunion</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true'>"}, text:{content:"RE", attrs:{fill:"white", "font-size":10}}},
+"Auvergne" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Auvergne</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true'>"}, text:{content:"AU", attrs:{fill:"white", "font-size":10}}},
+"Bretagne" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Bretagne</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true'>"}, text:{content:"BT", attrs:{fill:"white", "font-size":10}}},
+"Aquitaine" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Aquitaine</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true'>"}, text:{content:"AQ", attrs:{fill:"white", "font-size":10}}},
+"Île-de-France" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Île-de-France</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true'>"}, text:{content:"IF", attrs:{fill:"white", "font-size":10}}},
+"Midi-Pyrénées" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Midi-Pyrénées</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true'>"}, text:{content:"MP", attrs:{fill:"white", "font-size":10}}},
+"Limousin" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Limousin</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true'>"}, text:{content:"LM", attrs:{fill:"white", "font-size":10}}},
+"Languedoc-Roussillon" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Languedoc-Roussillon</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true'>"}, text:{content:"LU", attrs:{fill:"white", "font-size":10}}},
+"Pays de la Loire" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Pays de la Loire</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true'>"}, text:{content:"PL", attrs:{fill:"white", "font-size":10}}},
+"Basse-Normandie" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Basse-Normandie</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true'>"}, text:{content:"BN", attrs:{fill:"white", "font-size":10}}},
+"Haute-Normandie" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Haute-Normandie</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true'>"}, text:{content:"HT", attrs:{fill:"white", "font-size":10}}},
+"Poitou-Charentes" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Poitou-Charentes</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true'>"}, text:{content:"PT", attrs:{fill:"white", "font-size":10}}},
+"Centre" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Centre</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true'>"}, text:{content:"CN", attrs:{fill:"white", "font-size":10}}},
+"Bourgogne" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Bourgogne</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true'>"}, text:{content:"BG", attrs:{fill:"white", "font-size":10}}},
+"Franche-Comté" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Franche-Comté</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true'>"}, text:{content:"FC", attrs:{fill:"white", "font-size":10}}},
+"Rhône-Alpes" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Rhône-Alpes</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true'>"}, text:{content:"RA", attrs:{fill:"white", "font-size":10}}},
+"Nord-Pas-de-Calais" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Nord-Pas-de-Calais</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true'>"}, text:{content:"NP", attrs:{fill:"white", "font-size":10}}},
+"Lorraine" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Lorraine</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true'>"}, text:{content:"LE", attrs:{fill:"white", "font-size":10}}},
+"Provence-Alpes-Côte-d'Azur" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Provence-Alpes-Côte-d'Azur</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true'>"}, text:{content:"PR", attrs:{fill:"white", "font-size":10}}},
+"Champagne-Ardenne" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Champagne-Ardenne</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true'>"}, text:{content:"CG", attrs:{fill:"white", "font-size":10}}},
+"Alsace" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Alsace</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true'>"}, text:{content:"AA", attrs:{fill:"white", "font-size":10}}},
+"Corse" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Corse</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true'>"}, text:{content:"CE", attrs:{fill:"white", "font-size":10}}},
+"Picardie" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Picardie</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true'>"}, text:{content:"PI", attrs:{fill:"white", "font-size":10}}},
+"Champagne-Ardenne" : {value:"7", tooltip: {content:"<span style=\"font-weight:bold;\">Champagne-Ardenne</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true'>"}, text:{content:"CG", attrs:{fill:"white", "font-size":10}}},
 
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -460,7 +467,7 @@
             <div class="col-md-10">
                 <div id="header">
                     <h1 class="title">Le candidat de la primaire de gauche le plus recherché par région</h1>
-                    <h2 class="subtitle">Pendant le débat (18H00 - 20H30)</h2>
+                    <h2 class="subtitle">Le 19/01 (jusqu'à 15H20)</h2>
 
 
                 </div>
@@ -486,14 +493,6 @@
             <div id="legend">
                 <h2 class="legendTitle">Candidats</h2>
               
-                    <div class="box box1"></div><p>Benoît Hamon</p> 
-                    <br />
-                   <div class="box box2"></div><p>Arnaud Montebourg</p> 
-                    <br />
-                   <div class="box box4"></div><p>Sylvia Pinel</p> 
-                    <br />
-                    <div class="box box6"></div><p>Jean-Luc Bennahmias</p> 
-                     <br />
                    <div class="box box7"></div><p>Manuel Valls</p> 
             </div>
     </div>
