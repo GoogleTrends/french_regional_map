@@ -284,6 +284,10 @@
       }
     }
 
+            .mapael .areaLegend {
+            margin-bottom: 20px;
+        }
+
 
 
 
@@ -295,7 +299,7 @@
             charset="utf-8"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.2.0/raphael-min.js" charset="utf-8"></script>
     <script src="js/jquery.mapael.js" charset="utf-8"></script>
-    <script src="js/maps/france_region.js" charset="utf-8"></script>
+    <script src="js/maps/france_13_regions.js" charset="utf-8"></script>
         <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
 
     <script type="text/javascript">
@@ -317,10 +321,10 @@
                 legend: {
 
                     area: {
-                        mode: "horizontal",
-                        title: "",
+                        mode: "vertical",
+                        title: "legend",
                         exclusive:true,
-                        display:false,
+                        display:true,
                         slices: [
                             {
                                 max: 1,
@@ -386,33 +390,27 @@
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-"Guyane" : {value:"1", tooltip: {content:"<span style=\"font-weight:bold;\">Guyane</span><br />Benoît Hamon (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'>"}, text:{content:"GF", attrs:{fill:"white", "font-size":11}}},
-"Martinique" : {value:"1", tooltip: {content:"<span style=\"font-weight:bold;\">Martinique</span><br />Benoît Hamon (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'>"}, text:{content:"MQ", attrs:{fill:"white", "font-size":11}}},
-"Guadeloupe" : {value:"2", tooltip: {content:"<span style=\"font-weight:bold;\">Guadeloupe</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true' width='100%'>"}, text:{content:"GP", attrs:{fill:"white", "font-size":11}}},
-"Mayotte" : {value:"2", tooltip: {content:"<span style=\"font-weight:bold;\">Mayotte</span><br />Manuel Valls (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/valls.png?raw=true' width='100%'>"}, text:{content:"MT", attrs:{fill:"white", "font-size":11}}},
-"Réunion" : {value:"1", tooltip: {content:"<span style=\"font-weight:bold;\">Réunion</span><br />Benoît Hamon (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'>"}, text:{content:"RE", attrs:{fill:"white", "font-size":11}}},
-"Bretagne" : {value:"1", tooltip: {content:"<span style=\"font-weight:bold;\">Bretagne</span><br />Benoît Hamon (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'>"}, text:{content:"BT", attrs:{fill:"white", "font-size":11}}},
-"Île-de-France" : {value:"1", tooltip: {content:"<span style=\"font-weight:bold;\">Île-de-France</span><br />Benoît Hamon (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'>"}, text:{content:"IF", attrs:{fill:"white", "font-size":11}}},
-"Pays de la Loire" : {value:"1", tooltip: {content:"<span style=\"font-weight:bold;\">Pays de la Loire</span><br />Benoît Hamon (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'>"}, text:{content:"PL", attrs:{fill:"white", "font-size":11}}},
-"Midi-Pyrénées" : {value:"1", tooltip: {content:"<span style=\"font-weight:bold;\">Midi-Pyrénées</span><br />Benoît Hamon (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'>"}, text:{content:"MP", attrs:{fill:"white", "font-size":11}}},
-"Aquitaine" : {value:"1", tooltip: {content:"<span style=\"font-weight:bold;\">Aquitaine</span><br />Benoît Hamon (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'>"}, text:{content:"AQ", attrs:{fill:"white", "font-size":11}}},
-"Limousin" : {value:"1", tooltip: {content:"<span style=\"font-weight:bold;\">Limousin</span><br />Benoît Hamon (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'>"}, text:{content:"LM", attrs:{fill:"white", "font-size":11}}},
-"Basse-Normandie" : {value:"1", tooltip: {content:"<span style=\"font-weight:bold;\">Basse-Normandie</span><br />Benoît Hamon (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'>"}, text:{content:"BN", attrs:{fill:"white", "font-size":11}}},
-"Poitou-Charentes" : {value:"1", tooltip: {content:"<span style=\"font-weight:bold;\">Poitou-Charentes</span><br />Benoît Hamon (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'>"}, text:{content:"PT", attrs:{fill:"white", "font-size":11}}},
-"Centre" : {value:"1", tooltip: {content:"<span style=\"font-weight:bold;\">Centre</span><br />Benoît Hamon (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'>"}, text:{content:"CN", attrs:{fill:"white", "font-size":11}}},
-"Haute-Normandie" : {value:"1", tooltip: {content:"<span style=\"font-weight:bold;\">Haute-Normandie</span><br />Benoît Hamon (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'>"}, text:{content:"HT", attrs:{fill:"white", "font-size":11}}},
-"Corse" : {value:"1", tooltip: {content:"<span style=\"font-weight:bold;\">Corse</span><br />Benoît Hamon (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'>"}, text:{content:"CE", attrs:{fill:"white", "font-size":11}}},
-"Auvergne" : {value:"1", tooltip: {content:"<span style=\"font-weight:bold;\">Auvergne</span><br />Benoît Hamon (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'>"}, text:{content:"AU", attrs:{fill:"white", "font-size":11}}},
-"Bourgogne" : {value:"1", tooltip: {content:"<span style=\"font-weight:bold;\">Bourgogne</span><br />Benoît Hamon (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'>"}, text:{content:"BG", attrs:{fill:"white", "font-size":11}}},
-"Languedoc-Roussillon" : {value:"1", tooltip: {content:"<span style=\"font-weight:bold;\">Languedoc-Roussillon</span><br />Benoît Hamon (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'>"}, text:{content:"LU", attrs:{fill:"white", "font-size":11}}},
-"Provence-Alpes-Côte-d'Azur" : {value:"1", tooltip: {content:"<span style=\"font-weight:bold;\">Provence-Alpes-Côte-d'Azur</span><br />Benoît Hamon (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'>"}, text:{content:"PR", attrs:{fill:"white", "font-size":11}}},
-"Rhône-Alpes" : {value:"1", tooltip: {content:"<span style=\"font-weight:bold;\">Rhône-Alpes</span><br />Benoît Hamon (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'>"}, text:{content:"RA", attrs:{fill:"white", "font-size":11}}},
-"Champagne-Ardenne" : {value:"1", tooltip: {content:"<span style=\"font-weight:bold;\">Champagne-Ardenne</span><br />Benoît Hamon (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'>"}, text:{content:"CG", attrs:{fill:"white", "font-size":11}}},
-"Franche-Comté" : {value:"1", tooltip: {content:"<span style=\"font-weight:bold;\">Franche-Comté</span><br />Benoît Hamon (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'>"}, text:{content:"FC", attrs:{fill:"white", "font-size":11}}},
-"Nord-Pas-de-Calais" : {value:"1", tooltip: {content:"<span style=\"font-weight:bold;\">Nord-Pas-de-Calais</span><br />Benoît Hamon (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'>"}, text:{content:"NP", attrs:{fill:"white", "font-size":11}}},
-"Alsace" : {value:"1", tooltip: {content:"<span style=\"font-weight:bold;\">Alsace</span><br />Benoît Hamon (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'>"}, text:{content:"AA", attrs:{fill:"white", "font-size":11}}},
-"Lorraine" : {value:"1", tooltip: {content:"<span style=\"font-weight:bold;\">Lorraine</span><br />Benoît Hamon (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'>"}, text:{content:"LE", attrs:{fill:"white", "font-size":11}}},
-"Picardie" : {value:"1", tooltip: {content:"<span style=\"font-weight:bold;\">Picardie</span><br />Benoît Hamon (PS)<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'>"}, text:{content:"PI", attrs:{fill:"white", "font-size":11}}},
+
+'Guyane' : {value:'1', tooltip: {content:"<span style='font-weight:bold;'>Guyane</span><br />1.Benoît Hamon<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'><br />2.Jean-Luc Melenchon<br />3.Manuel Valls"}, text:{content:'GF', attrs:{fill:'white', 'font-size':11}}},
+'Martinique' : {value:'1', tooltip: {content:"<span style='font-weight:bold;'>Martinique</span><br />1.Benoît Hamon<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'><br />2.Jean-Luc Melenchon<br />3.Manuel Valls"}, text:{content:'MQ', attrs:{fill:'white', 'font-size':11}}},
+'Guadeloupe' : {value:'1', tooltip: {content:"<span style='font-weight:bold;'>Guadeloupe</span><br />1.Benoît Hamon<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'><br />2.Jean-Luc Melenchon<br />3.Manuel Valls"}, text:{content:'GP', attrs:{fill:'white', 'font-size':11}}},
+'Mayotte' : {value:'1', tooltip: {content:"<span style='font-weight:bold;'>Mayotte</span><br />1.Benoît Hamon<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'><br />2.Jean-Luc Melenchon<br />3.Manuel Valls"}, text:{content:'MT', attrs:{fill:'white', 'font-size':11}}},
+'Réunion' : {value:'1', tooltip: {content:"<span style='font-weight:bold;'>Réunion</span><br />1.Benoît Hamon<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'><br />2.Jean-Luc Melenchon<br />3.Manuel Valls"}, text:{content:'RE', attrs:{fill:'white', 'font-size':11}}},
+'Auvergne-Rhône-Alpes' : {value:'1', tooltip: {content:"<span style='font-weight:bold;'>Auvergne-Rhône-Alpes</span><br />1.Benoît Hamon<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'><br />2.Jean-Luc Melenchon<br />3.Manuel Valls"}, text:{content:'AR', attrs:{fill:'white', 'font-size':11}}},
+'Bourgogne-Franche-Comté' : {value:'1', tooltip: {content:"<span style='font-weight:bold;'>Bourgogne-Franche-Comté</span><br />1.Benoît Hamon<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'><br />2.Jean-Luc Melenchon<br />3.Manuel Valls"}, text:{content:'BF', attrs:{fill:'white', 'font-size':11}}},
+'Bretagne' : {value:'1', tooltip: {content:"<span style='font-weight:bold;'>Bretagne</span><br />1.Benoît Hamon<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'><br />2.Jean-Luc Melenchon<br />3.Manuel Valls"}, text:{content:'BT', attrs:{fill:'white', 'font-size':11}}},
+'Centre-Val de Loire' : {value:'1', tooltip: {content:"<span style='font-weight:bold;'>Centre-Val de Loire</span><br />1.Benoît Hamon<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'><br />2.Jean-Luc Melenchon<br />3.Manuel Valls"}, text:{content:'CV', attrs:{fill:'white', 'font-size':11}}},
+'Corse' : {value:'1', tooltip: {content:"<span style='font-weight:bold;'>Corse</span><br />1.Benoît Hamon<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'><br />2.Jean-Luc Melenchon<br />3.Manuel Valls"}, text:{content:'CE', attrs:{fill:'white', 'font-size':11}}},
+'Grand Est' : {value:'1', tooltip: {content:"<span style='font-weight:bold;'>Grand Est</span><br />1.Benoît Hamon<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'><br />2.Jean-Luc Melenchon<br />3.Manuel Valls"}, text:{content:'GE', attrs:{fill:'white', 'font-size':11}}},
+'Hauts-de-France' : {value:'1', tooltip: {content:"<span style='font-weight:bold;'>Hauts-de-France</span><br />1.Benoît Hamon<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'><br />2.Jean-Luc Melenchon<br />3.Manuel Valls"}, text:{content:'HF', attrs:{fill:'white', 'font-size':11}}},
+'Île-de-France' : {value:'1', tooltip: {content:"<span style='font-weight:bold;'>Île-de-France</span><br />1.Benoît Hamon<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'><br />2.Jean-Luc Melenchon<br />3.Manuel Valls"}, text:{content:'IF', attrs:{fill:'white', 'font-size':11}}},
+'Nouvelle-Aquitaine' : {value:'1', tooltip: {content:"<span style='font-weight:bold;'>Nouvelle-Aquitaine</span><br />1.Benoît Hamon<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'><br />2.Jean-Luc Melenchon<br />3.Manuel Valls"}, text:{content:'NQ', attrs:{fill:'white', 'font-size':11}}},
+'Pays de la Loire' : {value:'1', tooltip: {content:"<span style='font-weight:bold;'>Pays de la Loire</span><br />1.Benoît Hamon<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'><br />2.Jean-Luc Melenchon<br />3.Manuel Valls"}, text:{content:'PL', attrs:{fill:'white', 'font-size':11}}},
+'Provence-Alpes-Côte d\'Azur' : {value:'1', tooltip: {content:"<span style='font-weight:bold;'>Provence-Alpes-Côte d'Azur</span><br />1.Benoît Hamon<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'><br />2.Jean-Luc Melenchon<br />3.Manuel Valls"}, text:{content:'PR', attrs:{fill:'white', 'font-size':11}}},
+'Normandie' : {value:'1', tooltip: {content:"<span style='font-weight:bold;'>Normandie</span><br />1.Benoît Hamon<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'><br />2.Jean-Luc Melenchon<br />3.Manuel Valls"}, text:{content:'NO', attrs:{fill:'white', 'font-size':11}}},
+'Occitanie' : {value:'1', tooltip: {content:"<span style='font-weight:bold;'>Occitanie</span><br />1.Benoît Hamon<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'><br />2.Jean-Luc Melenchon<br />3.Manuel Valls"}, text:{content:'OC', attrs:{fill:'white', 'font-size':11}}},
+'Auvergne-Rhône-Alpes' : {value:'1', tooltip: {content:"<span style='font-weight:bold;'>Auvergne-Rhône-Alpes</span><br />1.Benoît Hamon<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'><br />2.Jean-Luc Melenchon<br />3.Manuel Valls"}, text:{content:'AR', attrs:{fill:'white', 'font-size':11}}},
+
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
@@ -497,6 +495,7 @@
 
             </div>
     </div>
+    
 
 
 
