@@ -96,7 +96,7 @@
     "subtitle": "(Dernière mise à jour le 16/03 à 15h)"
   },
   {
-    "region": "Val-de-Marne",
+    "region": "Haute-Loire",
     "max": 4,
     "second": 2,
     "third": 1,
@@ -108,7 +108,7 @@
     "subtitle": "(Dernière mise à jour le 16/03 à 15h)"
   },
   {
-    "region": "Haute-Loire",
+    "region": "Val-de-Marne",
     "max": 4,
     "second": 2,
     "third": 1,
@@ -276,7 +276,7 @@
     "subtitle": "(Dernière mise à jour le 16/03 à 15h)"
   },
   {
-    "region": "Ariège",
+    "region": "Alpes-Maritimes",
     "max": 2,
     "second": 4,
     "third": 1,
@@ -288,7 +288,7 @@
     "subtitle": "(Dernière mise à jour le 16/03 à 15h)"
   },
   {
-    "region": "Alpes-Maritimes",
+    "region": "Ariège",
     "max": 2,
     "second": 4,
     "third": 1,
@@ -308,18 +308,6 @@
     "image": "https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true",
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés",
-    "subtitle": "(Dernière mise à jour le 16/03 à 15h)"
-  },
-  {
-    "region": "Gers",
-    "max": 4,
-    "second": 2,
-    "third": 8,
-    "maxname": "François Fillon",
-    "image": "https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true",
-    "secondname": "Emmanuel Macron",
-    "thirdname": "Marine Le Pen",
     "title": "Les candidats les plus recherchés",
     "subtitle": "(Dernière mise à jour le 16/03 à 15h)"
   },
@@ -344,6 +332,18 @@
     "image": "https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true",
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean Luc Melenchon",
+    "title": "Les candidats les plus recherchés",
+    "subtitle": "(Dernière mise à jour le 16/03 à 15h)"
+  },
+  {
+    "region": "Gers",
+    "max": 4,
+    "second": 2,
+    "third": 8,
+    "maxname": "François Fillon",
+    "image": "https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true",
+    "secondname": "Emmanuel Macron",
+    "thirdname": "Marine Le Pen",
     "title": "Les candidats les plus recherchés",
     "subtitle": "(Dernière mise à jour le 16/03 à 15h)"
   },
@@ -384,7 +384,7 @@
     "subtitle": "(Dernière mise à jour le 16/03 à 15h)"
   },
   {
-    "region": "Indre-et-Loire",
+    "region": "Drôme",
     "max": 4,
     "second": 2,
     "third": 1,
@@ -396,7 +396,7 @@
     "subtitle": "(Dernière mise à jour le 16/03 à 15h)"
   },
   {
-    "region": "Drôme",
+    "region": "Indre-et-Loire",
     "max": 4,
     "second": 2,
     "third": 1,
@@ -432,7 +432,7 @@
     "subtitle": "(Dernière mise à jour le 16/03 à 15h)"
   },
   {
-    "region": "Charente-Maritime",
+    "region": "Isère",
     "max": 4,
     "second": 2,
     "third": 1,
@@ -456,7 +456,19 @@
     "subtitle": "(Dernière mise à jour le 16/03 à 15h)"
   },
   {
-    "region": "Isère",
+    "region": "Charente-Maritime",
+    "max": 4,
+    "second": 2,
+    "third": 1,
+    "maxname": "François Fillon",
+    "image": "https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true",
+    "secondname": "Emmanuel Macron",
+    "thirdname": "Benoît Hamon",
+    "title": "Les candidats les plus recherchés",
+    "subtitle": "(Dernière mise à jour le 16/03 à 15h)"
+  },
+  {
+    "region": "Essonne",
     "max": 4,
     "second": 2,
     "third": 1,
@@ -476,18 +488,6 @@
     "image": "https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true",
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean Luc Melenchon",
-    "title": "Les candidats les plus recherchés",
-    "subtitle": "(Dernière mise à jour le 16/03 à 15h)"
-  },
-  {
-    "region": "Essonne",
-    "max": 4,
-    "second": 2,
-    "third": 1,
-    "maxname": "François Fillon",
-    "image": "https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true",
-    "secondname": "Emmanuel Macron",
-    "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés",
     "subtitle": "(Dernière mise à jour le 16/03 à 15h)"
   },
@@ -528,18 +528,6 @@
     "subtitle": "(Dernière mise à jour le 16/03 à 15h)"
   },
   {
-    "region": "Deux-Sèvres",
-    "max": 4,
-    "second": 2,
-    "third": 1,
-    "maxname": "François Fillon",
-    "image": "https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true",
-    "secondname": "Emmanuel Macron",
-    "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés",
-    "subtitle": "(Dernière mise à jour le 16/03 à 15h)"
-  },
-  {
     "region": "Jura",
     "max": 4,
     "second": 2,
@@ -548,6 +536,18 @@
     "image": "https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true",
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean Luc Melenchon",
+    "title": "Les candidats les plus recherchés",
+    "subtitle": "(Dernière mise à jour le 16/03 à 15h)"
+  },
+  {
+    "region": "Deux-Sèvres",
+    "max": 4,
+    "second": 2,
+    "third": 1,
+    "maxname": "François Fillon",
+    "image": "https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true",
+    "secondname": "Emmanuel Macron",
+    "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés",
     "subtitle": "(Dernière mise à jour le 16/03 à 15h)"
   },
@@ -684,7 +684,7 @@
     "subtitle": "(Dernière mise à jour le 16/03 à 15h)"
   },
   {
-    "region": "Gard",
+    "region": "Hautes-Pyrénées",
     "max": 2,
     "second": 4,
     "third": 7,
@@ -696,7 +696,7 @@
     "subtitle": "(Dernière mise à jour le 16/03 à 15h)"
   },
   {
-    "region": "Hautes-Pyrénées",
+    "region": "Gard",
     "max": 2,
     "second": 4,
     "third": 7,
@@ -732,18 +732,6 @@
     "subtitle": "(Dernière mise à jour le 16/03 à 15h)"
   },
   {
-    "region": "Haute-Saône",
-    "max": 4,
-    "second": 2,
-    "third": 7,
-    "maxname": "François Fillon",
-    "image": "https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true",
-    "secondname": "Emmanuel Macron",
-    "thirdname": "Jean Luc Melenchon",
-    "title": "Les candidats les plus recherchés",
-    "subtitle": "(Dernière mise à jour le 16/03 à 15h)"
-  },
-  {
     "region": "Dordogne",
     "max": 2,
     "second": 4,
@@ -751,6 +739,18 @@
     "maxname": "Emmanuel Macron",
     "image": "https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true",
     "secondname": "François Fillon",
+    "thirdname": "Jean Luc Melenchon",
+    "title": "Les candidats les plus recherchés",
+    "subtitle": "(Dernière mise à jour le 16/03 à 15h)"
+  },
+  {
+    "region": "Haute-Saône",
+    "max": 4,
+    "second": 2,
+    "third": 7,
+    "maxname": "François Fillon",
+    "image": "https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true",
+    "secondname": "Emmanuel Macron",
     "thirdname": "Jean Luc Melenchon",
     "title": "Les candidats les plus recherchés",
     "subtitle": "(Dernière mise à jour le 16/03 à 15h)"
@@ -795,11 +795,11 @@
     "region": "Lot-et-Garonne",
     "max": 4,
     "second": 2,
-    "third": 1,
+    "third": 7,
     "maxname": "François Fillon",
     "image": "https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true",
     "secondname": "Emmanuel Macron",
-    "thirdname": "Benoît Hamon",
+    "thirdname": "Jean Luc Melenchon",
     "title": "Les candidats les plus recherchés",
     "subtitle": "(Dernière mise à jour le 16/03 à 15h)"
   },
@@ -840,18 +840,6 @@
     "subtitle": "(Dernière mise à jour le 16/03 à 15h)"
   },
   {
-    "region": "Var",
-    "max": 4,
-    "second": 2,
-    "third": 8,
-    "maxname": "François Fillon",
-    "image": "https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true",
-    "secondname": "Emmanuel Macron",
-    "thirdname": "Marine Le Pen",
-    "title": "Les candidats les plus recherchés",
-    "subtitle": "(Dernière mise à jour le 16/03 à 15h)"
-  },
-  {
     "region": "Eure-et-Loir",
     "max": 2,
     "second": 4,
@@ -876,6 +864,18 @@
     "subtitle": "(Dernière mise à jour le 16/03 à 15h)"
   },
   {
+    "region": "Var",
+    "max": 4,
+    "second": 2,
+    "third": 8,
+    "maxname": "François Fillon",
+    "image": "https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true",
+    "secondname": "Emmanuel Macron",
+    "thirdname": "Marine Le Pen",
+    "title": "Les candidats les plus recherchés",
+    "subtitle": "(Dernière mise à jour le 16/03 à 15h)"
+  },
+  {
     "region": "Seine-et-Marne",
     "max": 2,
     "second": 4,
@@ -888,7 +888,7 @@
     "subtitle": "(Dernière mise à jour le 16/03 à 15h)"
   },
   {
-    "region": "Corrèze",
+    "region": "Haute-Marne",
     "max": 4,
     "second": 2,
     "third": 1,
@@ -912,7 +912,7 @@
     "subtitle": "(Dernière mise à jour le 16/03 à 15h)"
   },
   {
-    "region": "Haute-Marne",
+    "region": "Corrèze",
     "max": 4,
     "second": 2,
     "third": 1,
@@ -920,18 +920,6 @@
     "image": "https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true",
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés",
-    "subtitle": "(Dernière mise à jour le 16/03 à 15h)"
-  },
-  {
-    "region": "Somme",
-    "max": 2,
-    "second": 4,
-    "third": 7,
-    "maxname": "Emmanuel Macron",
-    "image": "https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true",
-    "secondname": "François Fillon",
-    "thirdname": "Jean Luc Melenchon",
     "title": "Les candidats les plus recherchés",
     "subtitle": "(Dernière mise à jour le 16/03 à 15h)"
   },
@@ -948,6 +936,18 @@
     "subtitle": "(Dernière mise à jour le 16/03 à 15h)"
   },
   {
+    "region": "Haute-Savoie",
+    "max": 4,
+    "second": 2,
+    "third": 1,
+    "maxname": "François Fillon",
+    "image": "https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true",
+    "secondname": "Emmanuel Macron",
+    "thirdname": "Benoît Hamon",
+    "title": "Les candidats les plus recherchés",
+    "subtitle": "(Dernière mise à jour le 16/03 à 15h)"
+  },
+  {
     "region": "Nord",
     "max": 2,
     "second": 4,
@@ -960,14 +960,14 @@
     "subtitle": "(Dernière mise à jour le 16/03 à 15h)"
   },
   {
-    "region": "Haute-Savoie",
-    "max": 4,
-    "second": 2,
-    "third": 1,
-    "maxname": "François Fillon",
+    "region": "Somme",
+    "max": 2,
+    "second": 4,
+    "third": 7,
+    "maxname": "Emmanuel Macron",
     "image": "https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true",
-    "secondname": "Emmanuel Macron",
-    "thirdname": "Benoît Hamon",
+    "secondname": "François Fillon",
+    "thirdname": "Jean Luc Melenchon",
     "title": "Les candidats les plus recherchés",
     "subtitle": "(Dernière mise à jour le 16/03 à 15h)"
   },
