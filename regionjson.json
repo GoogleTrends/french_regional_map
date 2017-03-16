@@ -21,7 +21,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "François Asselineau",
     "title": "Les candidats les plus recherchés",
-    "subtitle": "France 2017-03-16_10:30"
+    "subtitle": "France 2017-03-16_09:55"
   },
   {
     "Region": "Martinique",
@@ -45,7 +45,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés",
-    "subtitle": "France 2017-03-16_10:30"
+    "subtitle": "France 2017-03-16_09:55"
   },
   {
     "Region": "Guadeloupe",
@@ -69,7 +69,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés",
-    "subtitle": "France 2017-03-16_10:30"
+    "subtitle": "France 2017-03-16_09:55"
   },
   {
     "Region": "Mayotte",
@@ -93,7 +93,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean Luc Melenchon",
     "title": "Les candidats les plus recherchés",
-    "subtitle": "France 2017-03-16_10:30"
+    "subtitle": "France 2017-03-16_09:55"
   },
   {
     "Region": "Réunion",
@@ -117,7 +117,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean Luc Melenchon",
     "title": "Les candidats les plus recherchés",
-    "subtitle": "France 2017-03-16_10:30"
+    "subtitle": "France 2017-03-16_09:55"
   },
   {
     "Region": "Auvergne-Rhône-Alpes",
@@ -141,7 +141,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés",
-    "subtitle": "France 2017-03-16_10:30"
+    "subtitle": "France 2017-03-16_09:55"
   },
   {
     "Region": "Bourgogne-Franche-Comté",
@@ -165,7 +165,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean Luc Melenchon",
     "title": "Les candidats les plus recherchés",
-    "subtitle": "France 2017-03-16_10:30"
+    "subtitle": "France 2017-03-16_09:55"
   },
   {
     "Region": "Bretagne",
@@ -189,7 +189,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés",
-    "subtitle": "France 2017-03-16_10:30"
+    "subtitle": "France 2017-03-16_09:55"
   },
   {
     "Region": "Centre-Val de Loire",
@@ -213,7 +213,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés",
-    "subtitle": "France 2017-03-16_10:30"
+    "subtitle": "France 2017-03-16_09:55"
   },
   {
     "Region": "Corse",
@@ -237,21 +237,21 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés",
-    "subtitle": "France 2017-03-16_10:30"
+    "subtitle": "France 2017-03-16_09:55"
   },
   {
     "Region": "Grand Est",
-    "Hamon": 3144.0617,
-    "Macron": 13401.9943,
-    "Asselineau": 2516.6102,
-    "Fillon": 14410.9713,
-    "Cheminade": 333.8956,
-    "Lasalle": 590.028,
-    "(Mélenchon|Melenchon)": 2966.1785,
-    "(Marine Le Pen)": 2635.199,
-    "entity:/m/0h3t838": 425.2673,
-    "entity:/m/0f6b18": 946.7665,
-    "Poutou": 286.7516,
+    "Hamon": 3143.8123,
+    "Macron": 13402.3893,
+    "Asselineau": 2517.3826,
+    "Fillon": 14410.3143,
+    "Cheminade": 333.8691,
+    "Lasalle": 590.4671,
+    "(Mélenchon|Melenchon)": 2966.9152,
+    "(Marine Le Pen)": 2634.0181,
+    "entity:/m/0h3t838": 425.2335,
+    "entity:/m/0f6b18": 946.6914,
+    "Poutou": 286.7289,
     "abbreviation": "GE",
     "max": 4,
     "second": 2,
@@ -261,21 +261,21 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés",
-    "subtitle": "France 2017-03-16_10:30"
+    "subtitle": "France 2017-03-16_09:55"
   },
   {
     "Region": "Hauts-de-France",
-    "Hamon": 2900.3271,
-    "Macron": 13098.3935,
-    "Asselineau": 2018.2893,
-    "Fillon": 12702.3136,
-    "Cheminade": 239.6746,
-    "Lasalle": 989.9795,
-    "(Mélenchon|Melenchon)": 2827.6317,
-    "(Marine Le Pen)": 2418.3344,
-    "entity:/m/0h3t838": 375.3727,
-    "entity:/m/0f6b18": 775.8584,
-    "Poutou": 273.1586,
+    "Hamon": 2898.515,
+    "Macron": 13097.0588,
+    "Asselineau": 2017.9479,
+    "Fillon": 12699.2839,
+    "Cheminade": 239.6341,
+    "Lasalle": 989.812,
+    "(Mélenchon|Melenchon)": 2826.7129,
+    "(Marine Le Pen)": 2417.4848,
+    "entity:/m/0h3t838": 375.3092,
+    "entity:/m/0f6b18": 775.7272,
+    "Poutou": 273.1124,
     "abbreviation": "HF",
     "max": 2,
     "second": 4,
@@ -285,7 +285,7 @@
     "secondname": "François Fillon",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés",
-    "subtitle": "France 2017-03-16_10:30"
+    "subtitle": "France 2017-03-16_09:55"
   },
   {
     "Region": "Île-de-France",
@@ -309,7 +309,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés",
-    "subtitle": "France 2017-03-16_10:30"
+    "subtitle": "France 2017-03-16_09:55"
   },
   {
     "Region": "Nouvelle-Aquitaine",
@@ -333,7 +333,7 @@
     "secondname": "François Fillon",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés",
-    "subtitle": "France 2017-03-16_10:30"
+    "subtitle": "France 2017-03-16_09:55"
   },
   {
     "Region": "Pays de la Loire",
@@ -357,7 +357,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés",
-    "subtitle": "France 2017-03-16_10:30"
+    "subtitle": "France 2017-03-16_09:55"
   },
   {
     "Region": "PACA",
@@ -381,21 +381,21 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés",
-    "subtitle": "France 2017-03-16_10:30"
+    "subtitle": "France 2017-03-16_09:55"
   },
   {
     "Region": "Normandie",
-    "Hamon": 4274.2267,
-    "Macron": 14927.4449,
-    "Asselineau": 2365.2346,
-    "Fillon": 16356.6683,
-    "Cheminade": 301.6409,
-    "Lasalle": 646.9736,
-    "(Mélenchon|Melenchon)": 3488.616,
-    "(Marine Le Pen)": 2691.242,
-    "entity:/m/0h3t838": 518.4191,
-    "entity:/m/0f6b18": 984.7442,
-    "Poutou": 373.0601,
+    "Hamon": 4273.7901,
+    "Macron": 14929.2804,
+    "Asselineau": 2364.9929,
+    "Fillon": 16355.8374,
+    "Cheminade": 301.6101,
+    "Lasalle": 646.9075,
+    "(Mélenchon|Melenchon)": 3489.0997,
+    "(Marine Le Pen)": 2690.9671,
+    "entity:/m/0h3t838": 518.3661,
+    "entity:/m/0f6b18": 985.4837,
+    "Poutou": 373.022,
     "abbreviation": "NO",
     "max": 4,
     "second": 2,
@@ -405,7 +405,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés",
-    "subtitle": "France 2017-03-16_10:30"
+    "subtitle": "France 2017-03-16_09:55"
   },
   {
     "Region": "Occitanie",
@@ -429,7 +429,7 @@
     "secondname": "François Fillon",
     "thirdname": "Jean Luc Melenchon",
     "title": "Les candidats les plus recherchés",
-    "subtitle": "France 2017-03-16_10:30"
+    "subtitle": "France 2017-03-16_09:55"
   },
   {
     "Region": "Auvergne-Rhône-Alpes",
@@ -453,6 +453,6 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés",
-    "subtitle": "France 2017-03-16_10:30"
+    "subtitle": "France 2017-03-16_09:55"
   }
 ]
