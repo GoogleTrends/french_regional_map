@@ -108,18 +108,6 @@
     "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
-    "region": "Haute-Garonne",
-    "max": 4,
-    "second": 2,
-    "third": 7,
-    "maxname": "François Fillon",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
-    "secondname": "Emmanuel Macron",
-    "thirdname": "Jean-Luc Mélenchon",
-    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
-  },
-  {
     "region": "Hauts-de-Seine",
     "max": 4,
     "second": 2,
@@ -128,6 +116,18 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
+    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
+  },
+  {
+    "region": "Haute-Garonne",
+    "max": 4,
+    "second": 2,
+    "third": 7,
+    "maxname": "François Fillon",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
+    "secondname": "Emmanuel Macron",
+    "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
     "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
@@ -420,18 +420,6 @@
     "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
-    "region": "Yvelines",
-    "max": 4,
-    "second": 2,
-    "third": 1,
-    "maxname": "François Fillon",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
-    "secondname": "Emmanuel Macron",
-    "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
-  },
-  {
     "region": "Lozère",
     "max": 4,
     "second": 7,
@@ -440,6 +428,18 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Emmanuel Macron",
+    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
+  },
+  {
+    "region": "Yvelines",
+    "max": 4,
+    "second": 2,
+    "third": 1,
+    "maxname": "François Fillon",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
+    "secondname": "Emmanuel Macron",
+    "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
     "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
@@ -600,7 +600,7 @@
     "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
-    "region": "Gard",
+    "region": "Lot",
     "max": 4,
     "second": 2,
     "third": 7,
@@ -624,7 +624,7 @@
     "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
-    "region": "Lot",
+    "region": "Loir-et-Cher",
     "max": 4,
     "second": 2,
     "third": 7,
@@ -636,7 +636,7 @@
     "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
-    "region": "Loir-et-Cher",
+    "region": "Gard",
     "max": 4,
     "second": 2,
     "third": 7,
