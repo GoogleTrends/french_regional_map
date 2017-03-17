@@ -9,7 +9,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Paris",
@@ -21,7 +21,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Ille-et-Vilaine",
@@ -33,7 +33,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Finistère",
@@ -45,7 +45,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Puy-de-Dôme",
@@ -57,43 +57,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
-  },
-  {
-    "region": "Cantal",
-    "max": 4,
-    "second": 2,
-    "third": 1,
-    "maxname": "François Fillon",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
-    "secondname": "Emmanuel Macron",
-    "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
-  },
-  {
-    "region": "Morbihan",
-    "max": 4,
-    "second": 2,
-    "third": 1,
-    "maxname": "François Fillon",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
-    "secondname": "Emmanuel Macron",
-    "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
-  },
-  {
-    "region": "Corse-du-Sud",
-    "max": 4,
-    "second": 2,
-    "third": 7,
-    "maxname": "François Fillon",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
-    "secondname": "Emmanuel Macron",
-    "thirdname": "Jean-Luc Mélenchon",
-    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Haute-Saône",
@@ -105,7 +69,43 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
+  },
+  {
+    "region": "Cantal",
+    "max": 4,
+    "second": 2,
+    "third": 1,
+    "maxname": "François Fillon",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
+    "secondname": "Emmanuel Macron",
+    "thirdname": "Benoît Hamon",
+    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
+  },
+  {
+    "region": "Morbihan",
+    "max": 4,
+    "second": 2,
+    "third": 1,
+    "maxname": "François Fillon",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
+    "secondname": "Emmanuel Macron",
+    "thirdname": "Benoît Hamon",
+    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
+  },
+  {
+    "region": "Corse-du-Sud",
+    "max": 4,
+    "second": 2,
+    "third": 7,
+    "maxname": "François Fillon",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
+    "secondname": "Emmanuel Macron",
+    "thirdname": "Jean-Luc Mélenchon",
+    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Haute-Garonne",
@@ -117,31 +117,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
-  },
-  {
-    "region": "Val-de-Marne",
-    "max": 4,
-    "second": 2,
-    "third": 7,
-    "maxname": "François Fillon",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
-    "secondname": "Emmanuel Macron",
-    "thirdname": "Jean-Luc Mélenchon",
-    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
-  },
-  {
-    "region": "Hauts-de-Seine",
-    "max": 4,
-    "second": 2,
-    "third": 1,
-    "maxname": "François Fillon",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
-    "secondname": "Emmanuel Macron",
-    "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Maine-et-Loire",
@@ -153,7 +129,31 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
+  },
+  {
+    "region": "Val-de-Marne",
+    "max": 4,
+    "second": 2,
+    "third": 7,
+    "maxname": "François Fillon",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
+    "secondname": "Emmanuel Macron",
+    "thirdname": "Jean-Luc Mélenchon",
+    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
+  },
+  {
+    "region": "Hauts-de-Seine",
+    "max": 4,
+    "second": 2,
+    "third": 1,
+    "maxname": "François Fillon",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
+    "secondname": "Emmanuel Macron",
+    "thirdname": "Benoît Hamon",
+    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Loire-Atlantique",
@@ -165,7 +165,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Indre-et-Loire",
@@ -177,31 +177,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
-  },
-  {
-    "region": "Orne",
-    "max": 4,
-    "second": 2,
-    "third": 1,
-    "maxname": "François Fillon",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
-    "secondname": "Emmanuel Macron",
-    "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
-  },
-  {
-    "region": "Haute-Vienne",
-    "max": 4,
-    "second": 2,
-    "third": 1,
-    "maxname": "François Fillon",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
-    "secondname": "Emmanuel Macron",
-    "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Haute-Loire",
@@ -213,22 +189,10 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
-    "region": "Hérault",
-    "max": 4,
-    "second": 2,
-    "third": 7,
-    "maxname": "François Fillon",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
-    "secondname": "Emmanuel Macron",
-    "thirdname": "Jean-Luc Mélenchon",
-    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
-  },
-  {
-    "region": "Calvados",
+    "region": "Haute-Vienne",
     "max": 4,
     "second": 2,
     "third": 1,
@@ -237,7 +201,19 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
+  },
+  {
+    "region": "Orne",
+    "max": 4,
+    "second": 2,
+    "third": 1,
+    "maxname": "François Fillon",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
+    "secondname": "Emmanuel Macron",
+    "thirdname": "Benoît Hamon",
+    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Meurthe-et-Moselle",
@@ -249,7 +225,31 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
+  },
+  {
+    "region": "Hérault",
+    "max": 4,
+    "second": 2,
+    "third": 7,
+    "maxname": "François Fillon",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
+    "secondname": "Emmanuel Macron",
+    "thirdname": "Jean-Luc Mélenchon",
+    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
+  },
+  {
+    "region": "Calvados",
+    "max": 4,
+    "second": 2,
+    "third": 1,
+    "maxname": "François Fillon",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
+    "secondname": "Emmanuel Macron",
+    "thirdname": "Benoît Hamon",
+    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Deux-Sèvres",
@@ -261,7 +261,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Mayenne",
@@ -273,7 +273,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Charente-Maritime",
@@ -285,7 +285,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Essonne",
@@ -297,7 +297,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Cher",
@@ -309,7 +309,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Aveyron",
@@ -321,7 +321,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Landes",
@@ -333,7 +333,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Territoire de Belfort",
@@ -345,7 +345,7 @@
     "secondname": "François Fillon",
     "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Drôme",
@@ -357,7 +357,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Hautes-Pyrénées",
@@ -369,43 +369,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
-  },
-  {
-    "region": "Pyrénées-Atlantiques",
-    "max": 4,
-    "second": 2,
-    "third": 7,
-    "maxname": "François Fillon",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
-    "secondname": "Emmanuel Macron",
-    "thirdname": "Jean-Luc Mélenchon",
-    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
-  },
-  {
-    "region": "Doubs",
-    "max": 4,
-    "second": 2,
-    "third": 7,
-    "maxname": "François Fillon",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
-    "secondname": "Emmanuel Macron",
-    "thirdname": "Jean-Luc Mélenchon",
-    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
-  },
-  {
-    "region": "Yvelines",
-    "max": 4,
-    "second": 2,
-    "third": 1,
-    "maxname": "François Fillon",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
-    "secondname": "Emmanuel Macron",
-    "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Seine-Saint-Denis",
@@ -417,7 +381,43 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
+  },
+  {
+    "region": "Pyrénées-Atlantiques",
+    "max": 4,
+    "second": 2,
+    "third": 7,
+    "maxname": "François Fillon",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
+    "secondname": "Emmanuel Macron",
+    "thirdname": "Jean-Luc Mélenchon",
+    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
+  },
+  {
+    "region": "Yvelines",
+    "max": 4,
+    "second": 2,
+    "third": 1,
+    "maxname": "François Fillon",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
+    "secondname": "Emmanuel Macron",
+    "thirdname": "Benoît Hamon",
+    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
+  },
+  {
+    "region": "Doubs",
+    "max": 4,
+    "second": 2,
+    "third": 7,
+    "maxname": "François Fillon",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
+    "secondname": "Emmanuel Macron",
+    "thirdname": "Jean-Luc Mélenchon",
+    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Vendée",
@@ -429,7 +429,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Aude",
@@ -441,19 +441,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
-  },
-  {
-    "region": "Isère",
-    "max": 4,
-    "second": 2,
-    "third": 1,
-    "maxname": "François Fillon",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
-    "secondname": "Emmanuel Macron",
-    "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Sarthe",
@@ -465,10 +453,10 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
-    "region": "Pyrénées-Orientales",
+    "region": "Isère",
     "max": 4,
     "second": 2,
     "third": 1,
@@ -477,7 +465,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Loire",
@@ -489,7 +477,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Gironde",
@@ -501,7 +489,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Rhône",
@@ -513,7 +501,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Val-d'Oise",
@@ -525,10 +513,10 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
-    "region": "Côte-d'Or",
+    "region": "Pyrénées-Orientales",
     "max": 4,
     "second": 2,
     "third": 7,
@@ -537,7 +525,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Seine-Maritime",
@@ -549,7 +537,19 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
+  },
+  {
+    "region": "Côte-d'Or",
+    "max": 4,
+    "second": 2,
+    "third": 7,
+    "maxname": "François Fillon",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
+    "secondname": "Emmanuel Macron",
+    "thirdname": "Jean-Luc Mélenchon",
+    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Bas-Rhin",
@@ -561,19 +561,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
-  },
-  {
-    "region": "Tarn-et-Garonne",
-    "max": 4,
-    "second": 2,
-    "third": 7,
-    "maxname": "François Fillon",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
-    "secondname": "Emmanuel Macron",
-    "thirdname": "Jean-Luc Mélenchon",
-    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Nord",
@@ -585,7 +573,19 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
+  },
+  {
+    "region": "Tarn-et-Garonne",
+    "max": 4,
+    "second": 2,
+    "third": 7,
+    "maxname": "François Fillon",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
+    "secondname": "Emmanuel Macron",
+    "thirdname": "Jean-Luc Mélenchon",
+    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Gard",
@@ -597,19 +597,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
-  },
-  {
-    "region": "Vaucluse",
-    "max": 4,
-    "second": 2,
-    "third": 7,
-    "maxname": "François Fillon",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
-    "secondname": "Emmanuel Macron",
-    "thirdname": "Jean-Luc Mélenchon",
-    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Ariège",
@@ -621,19 +609,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
-  },
-  {
-    "region": "Loiret",
-    "max": 4,
-    "second": 2,
-    "third": 7,
-    "maxname": "François Fillon",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
-    "secondname": "Emmanuel Macron",
-    "thirdname": "Jean-Luc Mélenchon",
-    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Lozère",
@@ -645,19 +621,7 @@
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Emmanuel Macron",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
-  },
-  {
-    "region": "Loir-et-Cher",
-    "max": 4,
-    "second": 2,
-    "third": 7,
-    "maxname": "François Fillon",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
-    "secondname": "Emmanuel Macron",
-    "thirdname": "Jean-Luc Mélenchon",
-    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Moselle",
@@ -669,7 +633,43 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
+  },
+  {
+    "region": "Loir-et-Cher",
+    "max": 4,
+    "second": 2,
+    "third": 7,
+    "maxname": "François Fillon",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
+    "secondname": "Emmanuel Macron",
+    "thirdname": "Jean-Luc Mélenchon",
+    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
+  },
+  {
+    "region": "Vaucluse",
+    "max": 4,
+    "second": 2,
+    "third": 7,
+    "maxname": "François Fillon",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
+    "secondname": "Emmanuel Macron",
+    "thirdname": "Jean-Luc Mélenchon",
+    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
+  },
+  {
+    "region": "Loiret",
+    "max": 4,
+    "second": 2,
+    "third": 7,
+    "maxname": "François Fillon",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
+    "secondname": "Emmanuel Macron",
+    "thirdname": "Jean-Luc Mélenchon",
+    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Alpes-Maritimes",
@@ -681,19 +681,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
-  },
-  {
-    "region": "Eure",
-    "max": 4,
-    "second": 2,
-    "third": 7,
-    "maxname": "François Fillon",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
-    "secondname": "Emmanuel Macron",
-    "thirdname": "Jean-Luc Mélenchon",
-    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Savoie",
@@ -705,31 +693,19 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
-    "region": "Ain",
+    "region": "Eure",
     "max": 4,
     "second": 2,
-    "third": 1,
+    "third": 7,
     "maxname": "François Fillon",
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
     "secondname": "Emmanuel Macron",
-    "thirdname": "Benoît Hamon",
+    "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
-  },
-  {
-    "region": "Creuse",
-    "max": 4,
-    "second": 2,
-    "third": 1,
-    "maxname": "François Fillon",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
-    "secondname": "Emmanuel Macron",
-    "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Bouches-du-Rhône",
@@ -741,7 +717,31 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
+  },
+  {
+    "region": "Creuse",
+    "max": 4,
+    "second": 2,
+    "third": 1,
+    "maxname": "François Fillon",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
+    "secondname": "Emmanuel Macron",
+    "thirdname": "Benoît Hamon",
+    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
+  },
+  {
+    "region": "Ain",
+    "max": 4,
+    "second": 2,
+    "third": 1,
+    "maxname": "François Fillon",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
+    "secondname": "Emmanuel Macron",
+    "thirdname": "Benoît Hamon",
+    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Lot",
@@ -753,7 +753,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Tarn",
@@ -765,7 +765,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Haute-Marne",
@@ -777,7 +777,7 @@
     "secondname": "François Fillon",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Hautes-Alpes",
@@ -789,7 +789,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Seine-et-Marne",
@@ -801,7 +801,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Vienne",
@@ -813,43 +813,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
-  },
-  {
-    "region": "Allier",
-    "max": 4,
-    "second": 2,
-    "third": 1,
-    "maxname": "François Fillon",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
-    "secondname": "Emmanuel Macron",
-    "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
-  },
-  {
-    "region": "Gers",
-    "max": 4,
-    "second": 2,
-    "third": 7,
-    "maxname": "François Fillon",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
-    "secondname": "Emmanuel Macron",
-    "thirdname": "Jean-Luc Mélenchon",
-    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
-  },
-  {
-    "region": "Charente",
-    "max": 4,
-    "second": 2,
-    "third": 7,
-    "maxname": "François Fillon",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
-    "secondname": "Emmanuel Macron",
-    "thirdname": "Jean-Luc Mélenchon",
-    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Dordogne",
@@ -861,7 +825,43 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
+  },
+  {
+    "region": "Allier",
+    "max": 4,
+    "second": 2,
+    "third": 1,
+    "maxname": "François Fillon",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
+    "secondname": "Emmanuel Macron",
+    "thirdname": "Benoît Hamon",
+    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
+  },
+  {
+    "region": "Gers",
+    "max": 4,
+    "second": 2,
+    "third": 7,
+    "maxname": "François Fillon",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
+    "secondname": "Emmanuel Macron",
+    "thirdname": "Jean-Luc Mélenchon",
+    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
+  },
+  {
+    "region": "Charente",
+    "max": 4,
+    "second": 2,
+    "third": 7,
+    "maxname": "François Fillon",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
+    "secondname": "Emmanuel Macron",
+    "thirdname": "Jean-Luc Mélenchon",
+    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Marne",
@@ -873,7 +873,7 @@
     "secondname": "François Fillon",
     "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Yonne",
@@ -885,7 +885,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Vosges",
@@ -897,7 +897,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Jura",
@@ -909,7 +909,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Indre",
@@ -921,7 +921,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Var",
@@ -933,79 +933,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Marine Le Pen",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
-  },
-  {
-    "region": "Haut-Rhin",
-    "max": 4,
-    "second": 2,
-    "third": 1,
-    "maxname": "François Fillon",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
-    "secondname": "Emmanuel Macron",
-    "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
-  },
-  {
-    "region": "Eure-et-Loir",
-    "max": 4,
-    "second": 2,
-    "third": 7,
-    "maxname": "François Fillon",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
-    "secondname": "Emmanuel Macron",
-    "thirdname": "Jean-Luc Mélenchon",
-    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
-  },
-  {
-    "region": "Manche",
-    "max": 4,
-    "second": 2,
-    "third": 7,
-    "maxname": "François Fillon",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
-    "secondname": "Emmanuel Macron",
-    "thirdname": "Jean-Luc Mélenchon",
-    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
-  },
-  {
-    "region": "Corrèze",
-    "max": 4,
-    "second": 2,
-    "third": 7,
-    "maxname": "François Fillon",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
-    "secondname": "Emmanuel Macron",
-    "thirdname": "Jean-Luc Mélenchon",
-    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
-  },
-  {
-    "region": "Meuse",
-    "max": 4,
-    "second": 2,
-    "third": 8,
-    "maxname": "François Fillon",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
-    "secondname": "Emmanuel Macron",
-    "thirdname": "Marine Le Pen",
-    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
-  },
-  {
-    "region": "Ardèche",
-    "max": 4,
-    "second": 2,
-    "third": 7,
-    "maxname": "François Fillon",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
-    "secondname": "Emmanuel Macron",
-    "thirdname": "Jean-Luc Mélenchon",
-    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Alpes-de-Haute-Provence",
@@ -1017,7 +945,79 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
+  },
+  {
+    "region": "Haut-Rhin",
+    "max": 4,
+    "second": 2,
+    "third": 1,
+    "maxname": "François Fillon",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
+    "secondname": "Emmanuel Macron",
+    "thirdname": "Benoît Hamon",
+    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
+  },
+  {
+    "region": "Eure-et-Loir",
+    "max": 4,
+    "second": 2,
+    "third": 7,
+    "maxname": "François Fillon",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
+    "secondname": "Emmanuel Macron",
+    "thirdname": "Jean-Luc Mélenchon",
+    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
+  },
+  {
+    "region": "Manche",
+    "max": 4,
+    "second": 2,
+    "third": 7,
+    "maxname": "François Fillon",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
+    "secondname": "Emmanuel Macron",
+    "thirdname": "Jean-Luc Mélenchon",
+    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
+  },
+  {
+    "region": "Corrèze",
+    "max": 4,
+    "second": 2,
+    "third": 7,
+    "maxname": "François Fillon",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
+    "secondname": "Emmanuel Macron",
+    "thirdname": "Jean-Luc Mélenchon",
+    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
+  },
+  {
+    "region": "Meuse",
+    "max": 4,
+    "second": 2,
+    "third": 8,
+    "maxname": "François Fillon",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
+    "secondname": "Emmanuel Macron",
+    "thirdname": "Marine Le Pen",
+    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
+  },
+  {
+    "region": "Ardèche",
+    "max": 4,
+    "second": 2,
+    "third": 7,
+    "maxname": "François Fillon",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
+    "secondname": "Emmanuel Macron",
+    "thirdname": "Jean-Luc Mélenchon",
+    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Somme",
@@ -1029,7 +1029,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Saône-et-Loire",
@@ -1041,7 +1041,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Pas-de-Calais",
@@ -1053,19 +1053,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
-  },
-  {
-    "region": "Nièvre",
-    "max": 4,
-    "second": 2,
-    "third": 7,
-    "maxname": "François Fillon",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
-    "secondname": "Emmanuel Macron",
-    "thirdname": "Jean-Luc Mélenchon",
-    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Oise",
@@ -1077,7 +1065,19 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
+  },
+  {
+    "region": "Nièvre",
+    "max": 4,
+    "second": 2,
+    "third": 7,
+    "maxname": "François Fillon",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
+    "secondname": "Emmanuel Macron",
+    "thirdname": "Jean-Luc Mélenchon",
+    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Haute-Savoie",
@@ -1089,7 +1089,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Aisne",
@@ -1101,43 +1101,7 @@
     "secondname": "François Fillon",
     "thirdname": "Marine Le Pen",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
-  },
-  {
-    "region": "Haute-Corse",
-    "max": 4,
-    "second": 2,
-    "third": 8,
-    "maxname": "François Fillon",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
-    "secondname": "Emmanuel Macron",
-    "thirdname": "Marine Le Pen",
-    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
-  },
-  {
-    "region": "Ardennes",
-    "max": 2,
-    "second": 4,
-    "third": 7,
-    "maxname": "Emmanuel Macron",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
-    "secondname": "François Fillon",
-    "thirdname": "Jean-Luc Mélenchon",
-    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
-  },
-  {
-    "region": "Aube",
-    "max": 4,
-    "second": 2,
-    "third": 7,
-    "maxname": "François Fillon",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
-    "secondname": "Emmanuel Macron",
-    "thirdname": "Jean-Luc Mélenchon",
-    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Lot-et-Garonne",
@@ -1149,7 +1113,43 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
+  },
+  {
+    "region": "Haute-Corse",
+    "max": 4,
+    "second": 2,
+    "third": 8,
+    "maxname": "François Fillon",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
+    "secondname": "Emmanuel Macron",
+    "thirdname": "Marine Le Pen",
+    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
+  },
+  {
+    "region": "Ardennes",
+    "max": 2,
+    "second": 4,
+    "third": 7,
+    "maxname": "Emmanuel Macron",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
+    "secondname": "François Fillon",
+    "thirdname": "Jean-Luc Mélenchon",
+    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
+  },
+  {
+    "region": "Aube",
+    "max": 4,
+    "second": 2,
+    "third": 7,
+    "maxname": "François Fillon",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
+    "secondname": "Emmanuel Macron",
+    "thirdname": "Jean-Luc Mélenchon",
+    "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Guyane",
@@ -1161,7 +1161,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Martinique",
@@ -1173,7 +1173,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Réunion",
@@ -1185,7 +1185,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Guadeloupe",
@@ -1197,7 +1197,7 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   },
   {
     "region": "Mayotte",
@@ -1209,6 +1209,6 @@
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 17/03 à 15h)"
+    "subtitle": "(Dernière mise à jour le 17/03 à 16h)"
   }
 ]
