@@ -1443,7 +1443,7 @@
 
             var updateTooltipPosition = function (x, y) {
 
-                var offsetLeft = 10;
+                var offsetLeft = -150;
                 var offsetTop = 20;
 
                 if (typeof elem.tooltip.offset === "object") {

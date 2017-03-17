@@ -120,38 +120,54 @@
     }
 
     .box1{
-      
-      background-color:#4285f4;
+
+      background-color:#fb9a99;
       display: inline-block;
     }
 
     .box2 {
-      background-color: #34a853;
+      background-color: #fdbf6f;
       display: inline-block;
     }
 
     .box3 {
-      background-color: #fbbc05;
+      background-color: #33a02c;
       display: inline-block;
     }
 
     .box4 {
-      background-color: #ea4335;
+      background-color: #a6cee3;
       display: inline-block;
     }
 
     .box5 {
-      background-color: #5c6bc0;
+      background-color: #b2df8a;
       display: inline-block;
     }
 
     .box6 {
-      background-color: #aa47bc;
+      background-color: #ff7f00;
       display: inline-block;
     }
 
     .box7 {
-      background-color: #00796a;
+      background-color: #e31a1c;
+      display: inline-block;
+    }
+        .box8 {
+      background-color: #1f78b4;
+      display: inline-block;
+    }
+        .box9 {
+      background-color: #cab2d6;
+      display: inline-block;
+    }
+        .box10 {
+      background-color: #6a3d9a;
+      display: inline-block;
+    }
+        .box11 {
+      background-color: #ffff99;
       display: inline-block;
     }
 
@@ -185,7 +201,7 @@
 
     /*Text of legend*/
     #legend p {
-                font-family: 'Roboto', sans-serif; 
+                font-family: 'Roboto', sans-serif;
                 font-size: 16px;
                 margin-bottom: 0px !important;
                 line-height: 20px;
@@ -213,13 +229,13 @@
           /*Header Container */
     #header {
           padding-left: 0px;
-          padding-bottom: 10px; 
+          padding-bottom: 10px;
     }
 
     /*Main text in header*/
 
     h1.title {
-          font-family: 'Roboto condensed', sans-serif; 
+          font-family: 'Roboto condensed', sans-serif;
           font-size: 33px;
           margin-bottom: 0px !important;
           line-height: 37px;
@@ -244,7 +260,7 @@
 
     /*Gray text in header*/
     h2.subtitle {
-          font-family: 'Roboto', sans-serif;; 
+          font-family: 'Roboto', sans-serif;;
           font-size: 25px;
           margin-bottom: 0px !important;
           line-height: 37px;
@@ -252,7 +268,7 @@
           color:gray;
           font-weight: 400;
           padding-left: 10px;
-          
+
     }
 
     @media (max-width: 1100px) {
@@ -268,14 +284,14 @@
       }
     }
         h2.legendTitle {
-          font-family: 'Roboto', sans-serif;; 
+          font-family: 'Roboto', sans-serif;;
           font-size: 25px;
           margin-bottom: 0px !important;
           line-height: 37px;
           color:gray;
           font-weight: 400;
           padding-left: 10px;
-          
+
     }
 
       @media (max-width: 1100px) {
@@ -284,7 +300,7 @@
       }
     }
 
-            .mapael .areaLegend {
+        .mapael .areaLegend {
             margin-bottom: 20px;
         }
 
@@ -303,7 +319,76 @@
         <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
 
     <script type="text/javascript">
-        $(function () {
+      $(function () {
+        // Get the data
+        $.getJSON("regionjson.json", function (data, elem) {
+            // Success
+            // This variable will hold all the plots of our map
+            var areas = {};
+            var legendBottom = [];
+            var elem
+            var max =[];
+
+
+            var title = "";
+            var subtitle = "";
+
+            
+
+
+            // Parse each elements
+            $.each(data, function (id, elem) {
+
+               if(title == ""){
+               title = elem.title;
+               $(".title").text(title);
+             } 
+
+             if(subtitle == ""){
+
+                subtitle= elem.subtitle;
+                $(".subtitle").text(subtitle);
+
+             }
+
+            
+
+
+                // Check if we have the GPS position of the element
+              if (elem['Region']) {
+
+
+
+
+
+                    // Will hold the plot information
+                    var area = {};
+                    // Assign position
+                    area.value = elem.max;
+                    // Assign some information inside the tooltip
+                    area.tooltip = {
+                        content: "<span style='font-weight:bold;'>" +
+                                    elem['Region']+
+                                 "</span>" +
+                                "<br/>1." + elem.maxname + "<br/>"
+                                + "<img src='"+elem.image+"'+ width='100%'><br /> 2. "+elem.secondname+"<br /> 3. "+ elem.thirdname+ ""
+                    };
+                    area['text'] = {'content': elem.abbreviation, 'attrs':{'fill':'white', 'font-size':11}};
+                    // Set plot element to array
+                    areas[elem['Region']] = area;
+                    if(!(elem.max in legendBottom)) {
+                     legendBottom[elem.max] = {count:0, name:elem.maxname, idmax:elem.max};
+                    }
+                    legendBottom[elem.max].count++;
+                } else {
+                    console.warn("Ignored element " + id + " without GPS position");
+                }
+            });
+
+            for(var key in legendBottom){
+              $("#legend").append("<div class='box box"+ legendBottom[key].idmax+"'></div><p>"+legendBottom[key].name+"</p> <br>");
+            }
+
             $(".mapcontainer").mapael({
                 map: {
                     name: "france_region",
@@ -322,14 +407,14 @@
 
                     area: {
                         mode: "vertical",
-                        title: "legend",
-                        exclusive:true,
+                        title: "",
                         display:true,
+                        exclusive:true,
                         slices: [
                             {
                                 max: 1,
                                 attrs: {
-                                    fill: "#ea4335"
+                                    fill: "#fb9a99"
 
                                 },
                                 label: "Benoît Hamon"
@@ -338,83 +423,87 @@
                                 min: 2,
                                 max: 2,
                                 attrs: {
-                                    fill: "#4285f4"
+                                    fill: "#fdbf6f"
                                 },
-                                label: "Arnaud Montebourg"
+                                label: "Emmanuel Macron"
                             },
                             {
                                 min: 3,
                                 max: 3,
                                 attrs: {
-                                    fill: "#fbbc05"
+                                    fill: "#33a02c"
                                 },
-                                label: "Vincent Peillon"
+                                label: "François Asselineau"
                             },
                             {
-                               
+
                                 min: 4,
                                 max: 4,
                                 attrs: {
-                                    fill: "#ea4335"
+                                    fill: "#a6cee3"
                                 },
-                                label: "Sylvia Pinel"
+                                label: "François Fillon"
                             },
                                                         {
                                 min: 5,
                                 max: 5,
                                 attrs: {
-                                    fill: "#5c6bc0"
+                                    fill: "#b2df8a"
                                 },
-                                label: "François de Rugy"
+                                label: "Jacques Cheminade"
                             },
                                                         {
                                 min: 6,
                                 max: 6,
                                 attrs: {
-                                    fill: "#aa47bc"
+                                    fill: "#ff7f00"
                                 },
-                                label: "Jean Luc Bennahmias"
+                                label: "Jean Lasalle"
                             },
                                                         {
                                 min: 7,
                                 max: 7,
                                 attrs: {
-                                    fill: "#00796a"
+                                    fill: "#e31a1c"
                                 },
-                                label: "Manuel Valls"
+                                label: "Jean-Luc Mélenchon"
+                            },
+                                                                                    {
+                                min: 8,
+                                max: 8,
+                                attrs: {
+                                    fill: "#1f78b4"
+                                },
+                                label: "Marine Le Pen"
+                            },
+                                                                                    {
+                                min: 9,
+                                max: 9,
+                                attrs: {
+                                    fill: "#cab2d6"
+                                },
+                                label: "Nathalie Artaud"
+                            },
+                                                                                    {
+                                min: 10,
+                                max: 10,
+                                attrs: {
+                                    fill: "#6a3d9a"
+                                },
+                                label: "Nicolas Dupont Aignan"
+                            },
+                                                                                                                {
+                                min: 11,
+                                max: 11,
+                                attrs: {
+                                    fill: "#ffff99"
+                                },
+                                label: "Philippe Poutou"
                             }
                         ]
                     }
                 },
-                areas: { 
-
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-
-'Guyane' : {value:'1', tooltip: {content:"<span style='font-weight:bold;'>Guyane</span><br />1.Benoît Hamon<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'><br />2.Jean-Luc Melenchon<br />3.Manuel Valls"}, text:{content:'GF', attrs:{fill:'white', 'font-size':11}}},
-'Martinique' : {value:'1', tooltip: {content:"<span style='font-weight:bold;'>Martinique</span><br />1.Benoît Hamon<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'><br />2.Jean-Luc Melenchon<br />3.Manuel Valls"}, text:{content:'MQ', attrs:{fill:'white', 'font-size':11}}},
-'Guadeloupe' : {value:'1', tooltip: {content:"<span style='font-weight:bold;'>Guadeloupe</span><br />1.Benoît Hamon<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'><br />2.Jean-Luc Melenchon<br />3.Manuel Valls"}, text:{content:'GP', attrs:{fill:'white', 'font-size':11}}},
-'Mayotte' : {value:'1', tooltip: {content:"<span style='font-weight:bold;'>Mayotte</span><br />1.Benoît Hamon<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'><br />2.Jean-Luc Melenchon<br />3.Manuel Valls"}, text:{content:'MT', attrs:{fill:'white', 'font-size':11}}},
-'Réunion' : {value:'1', tooltip: {content:"<span style='font-weight:bold;'>Réunion</span><br />1.Benoît Hamon<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'><br />2.Jean-Luc Melenchon<br />3.Manuel Valls"}, text:{content:'RE', attrs:{fill:'white', 'font-size':11}}},
-'Auvergne-Rhône-Alpes' : {value:'1', tooltip: {content:"<span style='font-weight:bold;'>Auvergne-Rhône-Alpes</span><br />1.Benoît Hamon<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'><br />2.Jean-Luc Melenchon<br />3.Manuel Valls"}, text:{content:'AR', attrs:{fill:'white', 'font-size':11}}},
-'Bourgogne-Franche-Comté' : {value:'1', tooltip: {content:"<span style='font-weight:bold;'>Bourgogne-Franche-Comté</span><br />1.Benoît Hamon<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'><br />2.Jean-Luc Melenchon<br />3.Manuel Valls"}, text:{content:'BF', attrs:{fill:'white', 'font-size':11}}},
-'Bretagne' : {value:'1', tooltip: {content:"<span style='font-weight:bold;'>Bretagne</span><br />1.Benoît Hamon<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'><br />2.Jean-Luc Melenchon<br />3.Manuel Valls"}, text:{content:'BT', attrs:{fill:'white', 'font-size':11}}},
-'Centre-Val de Loire' : {value:'1', tooltip: {content:"<span style='font-weight:bold;'>Centre-Val de Loire</span><br />1.Benoît Hamon<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'><br />2.Jean-Luc Melenchon<br />3.Manuel Valls"}, text:{content:'CV', attrs:{fill:'white', 'font-size':11}}},
-'Corse' : {value:'1', tooltip: {content:"<span style='font-weight:bold;'>Corse</span><br />1.Benoît Hamon<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'><br />2.Jean-Luc Melenchon<br />3.Manuel Valls"}, text:{content:'CE', attrs:{fill:'white', 'font-size':11}}},
-'Grand Est' : {value:'1', tooltip: {content:"<span style='font-weight:bold;'>Grand Est</span><br />1.Benoît Hamon<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'><br />2.Jean-Luc Melenchon<br />3.Manuel Valls"}, text:{content:'GE', attrs:{fill:'white', 'font-size':11}}},
-'Hauts-de-France' : {value:'1', tooltip: {content:"<span style='font-weight:bold;'>Hauts-de-France</span><br />1.Benoît Hamon<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'><br />2.Jean-Luc Melenchon<br />3.Manuel Valls"}, text:{content:'HF', attrs:{fill:'white', 'font-size':11}}},
-'Île-de-France' : {value:'1', tooltip: {content:"<span style='font-weight:bold;'>Île-de-France</span><br />1.Benoît Hamon<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'><br />2.Jean-Luc Melenchon<br />3.Manuel Valls"}, text:{content:'IF', attrs:{fill:'white', 'font-size':11}}},
-'Nouvelle-Aquitaine' : {value:'1', tooltip: {content:"<span style='font-weight:bold;'>Nouvelle-Aquitaine</span><br />1.Benoît Hamon<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'><br />2.Jean-Luc Melenchon<br />3.Manuel Valls"}, text:{content:'NQ', attrs:{fill:'white', 'font-size':11}}},
-'Pays de la Loire' : {value:'1', tooltip: {content:"<span style='font-weight:bold;'>Pays de la Loire</span><br />1.Benoît Hamon<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'><br />2.Jean-Luc Melenchon<br />3.Manuel Valls"}, text:{content:'PL', attrs:{fill:'white', 'font-size':11}}},
-'Provence-Alpes-Côte d\'Azur' : {value:'1', tooltip: {content:"<span style='font-weight:bold;'>Provence-Alpes-Côte d'Azur</span><br />1.Benoît Hamon<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'><br />2.Jean-Luc Melenchon<br />3.Manuel Valls"}, text:{content:'PR', attrs:{fill:'white', 'font-size':11}}},
-'Normandie' : {value:'1', tooltip: {content:"<span style='font-weight:bold;'>Normandie</span><br />1.Benoît Hamon<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'><br />2.Jean-Luc Melenchon<br />3.Manuel Valls"}, text:{content:'NO', attrs:{fill:'white', 'font-size':11}}},
-'Occitanie' : {value:'1', tooltip: {content:"<span style='font-weight:bold;'>Occitanie</span><br />1.Benoît Hamon<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'><br />2.Jean-Luc Melenchon<br />3.Manuel Valls"}, text:{content:'OC', attrs:{fill:'white', 'font-size':11}}},
-'Auvergne-Rhône-Alpes' : {value:'1', tooltip: {content:"<span style='font-weight:bold;'>Auvergne-Rhône-Alpes</span><br />1.Benoît Hamon<br /> <img src='https://github.com/GoogleTrends/visualassets/blob/master/France_left_primaries/hamon.png?raw=true' width='100%'><br />2.Jean-Luc Melenchon<br />3.Manuel Valls"}, text:{content:'AR', attrs:{fill:'white', 'font-size':11}}},
-
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-
-                },
+                areas: areas,
 
                 // Add some plots on the map
                 plots: {
@@ -446,36 +535,36 @@
 
                     }
 
+            })
 
-
-            });
-        });
+         });
+      });
     </script>
 
 </head>
 
 <body>
+
+
 <div class="container">
 
     <div class="second-container">
-       
+
         <div class="header-container">
             <div class="col-md-10">
                 <div id="header">
-                    <h1 class="title">Le candidat de la primaire de gauche le plus recherché par région</h1>
+                    <h1 class="title"></h1>
                     <h2 class="subtitle">Au cours du second tour des Primaires Citoyennes (08H00-14H00).</h2>
-
-
                 </div>
                  <img src="Images/logotrends.png" width="15%">
             </div>
             <div class="col-md-2">
                 <div id="trendslogo">
-                
+
                 </div>
             </div>
         </div>
-        
+
 
     <div class="col-md-9">
 
@@ -489,34 +578,7 @@
             <div id="legend">
                 <h2 class="legendTitle">Candidats</h2>
 
-                    <div class="box box4"></div><p>Benoît Hamon</p>
-                    <br />
-                    <div class="box box1"></div><p>Manuel Valls</p> 
-
-            </div>
-    </div>
-    
-
-
-
-<!--Full Candidates List
-
-                    <div class="box box1"></div><p>Benoît Hamon</p> 
-                    <br />
-                   <div class="box box2"></div><p>Arnaud Montebourg</p> 
-                    <br />
-                    <div class="box box3"></div><p>Vincent Peillon</p> 
-                    <br />
-                   <div class="box box4"></div><p>Sylvia Pinel</p> 
-                    <br />
-                    <div class="box box5"></div><p>François de Rugy</p> 
-                    <br />
-                    <div class="box box6"></div><p>Jean-Luc Bennahmias</p> 
-                     <br />
-                   <div class="box box7"></div><p>Manuel Valls</p> 
-
-
--->
+           </div>
 
 
 
