@@ -8,7 +8,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -20,7 +20,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -32,7 +32,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -44,7 +44,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -56,19 +56,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Benoît Hamon",
     "thirdname": "Jean-Luc Mélenchon",
-    "title": "Les candidats les plus recherchés pendant le débat",
-    "subtitle": ""
-  },
-  {
-    "region": "Rhône",
-    "max": 2,
-    "second": 7,
-    "third": 1,
-    "maxname": "Emmanuel Macron",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
-    "secondname": "Jean-Luc Mélenchon",
-    "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -80,7 +68,19 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
+    "subtitle": ""
+  },
+  {
+    "region": "Rhône",
+    "max": 2,
+    "second": 7,
+    "third": 1,
+    "maxname": "Emmanuel Macron",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
+    "secondname": "Jean-Luc Mélenchon",
+    "thirdname": "Benoît Hamon",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -92,7 +92,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -104,7 +104,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -116,7 +116,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -128,43 +128,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
-    "subtitle": ""
-  },
-  {
-    "region": "Haute-Garonne",
-    "max": 2,
-    "second": 7,
-    "third": 1,
-    "maxname": "Emmanuel Macron",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
-    "secondname": "Jean-Luc Mélenchon",
-    "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
-    "subtitle": ""
-  },
-  {
-    "region": "Cantal",
-    "max": 2,
-    "second": 1,
-    "third": 7,
-    "maxname": "Emmanuel Macron",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
-    "secondname": "Benoît Hamon",
-    "thirdname": "Jean-Luc Mélenchon",
-    "title": "Les candidats les plus recherchés pendant le débat",
-    "subtitle": ""
-  },
-  {
-    "region": "Calvados",
-    "max": 2,
-    "second": 7,
-    "third": 1,
-    "maxname": "Emmanuel Macron",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
-    "secondname": "Jean-Luc Mélenchon",
-    "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -176,11 +140,11 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
-    "region": "Val-d'Oise",
+    "region": "Haute-Garonne",
     "max": 2,
     "second": 7,
     "third": 1,
@@ -188,19 +152,19 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
-    "region": "Vienne",
+    "region": "Calvados",
     "max": 2,
-    "second": 1,
-    "third": 7,
+    "second": 7,
+    "third": 1,
     "maxname": "Emmanuel Macron",
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
-    "secondname": "Benoît Hamon",
-    "thirdname": "Jean-Luc Mélenchon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "secondname": "Jean-Luc Mélenchon",
+    "thirdname": "Benoît Hamon",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -212,11 +176,23 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
-    "region": "Aveyron",
+    "region": "Val-d'Oise",
+    "max": 2,
+    "second": 7,
+    "third": 1,
+    "maxname": "Emmanuel Macron",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
+    "secondname": "Jean-Luc Mélenchon",
+    "thirdname": "Benoît Hamon",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
+    "subtitle": ""
+  },
+  {
+    "region": "Vienne",
     "max": 2,
     "second": 1,
     "third": 7,
@@ -224,7 +200,19 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Benoît Hamon",
     "thirdname": "Jean-Luc Mélenchon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
+    "subtitle": ""
+  },
+  {
+    "region": "Cantal",
+    "max": 2,
+    "second": 1,
+    "third": 7,
+    "maxname": "Emmanuel Macron",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
+    "secondname": "Benoît Hamon",
+    "thirdname": "Jean-Luc Mélenchon",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -236,7 +224,19 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
+    "subtitle": ""
+  },
+  {
+    "region": "Aveyron",
+    "max": 2,
+    "second": 1,
+    "third": 7,
+    "maxname": "Emmanuel Macron",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
+    "secondname": "Benoît Hamon",
+    "thirdname": "Jean-Luc Mélenchon",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -248,7 +248,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -260,7 +260,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -272,19 +272,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Benoît Hamon",
     "thirdname": "Jean-Luc Mélenchon",
-    "title": "Les candidats les plus recherchés pendant le débat",
-    "subtitle": ""
-  },
-  {
-    "region": "Pyrénées-Atlantiques",
-    "max": 2,
-    "second": 7,
-    "third": 1,
-    "maxname": "Emmanuel Macron",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
-    "secondname": "Jean-Luc Mélenchon",
-    "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -296,7 +284,19 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
+    "subtitle": ""
+  },
+  {
+    "region": "Pyrénées-Atlantiques",
+    "max": 2,
+    "second": 7,
+    "third": 1,
+    "maxname": "Emmanuel Macron",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
+    "secondname": "Jean-Luc Mélenchon",
+    "thirdname": "Benoît Hamon",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -308,7 +308,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -320,19 +320,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
-    "subtitle": ""
-  },
-  {
-    "region": "Marne",
-    "max": 2,
-    "second": 7,
-    "third": 1,
-    "maxname": "Emmanuel Macron",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
-    "secondname": "Jean-Luc Mélenchon",
-    "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -344,7 +332,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -356,7 +344,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -368,7 +356,19 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
+    "subtitle": ""
+  },
+  {
+    "region": "Marne",
+    "max": 2,
+    "second": 7,
+    "third": 1,
+    "maxname": "Emmanuel Macron",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
+    "secondname": "Jean-Luc Mélenchon",
+    "thirdname": "Benoît Hamon",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -380,7 +380,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -392,19 +392,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
-    "subtitle": ""
-  },
-  {
-    "region": "Charente-Maritime",
-    "max": 2,
-    "second": 7,
-    "third": 1,
-    "maxname": "Emmanuel Macron",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
-    "secondname": "Jean-Luc Mélenchon",
-    "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -416,7 +404,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -428,11 +416,11 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
-    "region": "Corrèze",
+    "region": "Charente-Maritime",
     "max": 2,
     "second": 7,
     "third": 1,
@@ -440,7 +428,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -452,67 +440,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Benoît Hamon",
     "thirdname": "Jean-Luc Mélenchon",
-    "title": "Les candidats les plus recherchés pendant le débat",
-    "subtitle": ""
-  },
-  {
-    "region": "Manche",
-    "max": 2,
-    "second": 7,
-    "third": 1,
-    "maxname": "Emmanuel Macron",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
-    "secondname": "Jean-Luc Mélenchon",
-    "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
-    "subtitle": ""
-  },
-  {
-    "region": "Seine-Saint-Denis",
-    "max": 2,
-    "second": 7,
-    "third": 1,
-    "maxname": "Emmanuel Macron",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
-    "secondname": "Jean-Luc Mélenchon",
-    "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
-    "subtitle": ""
-  },
-  {
-    "region": "Seine-Maritime",
-    "max": 2,
-    "second": 7,
-    "third": 1,
-    "maxname": "Emmanuel Macron",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
-    "secondname": "Jean-Luc Mélenchon",
-    "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
-    "subtitle": ""
-  },
-  {
-    "region": "Deux-Sèvres",
-    "max": 2,
-    "second": 7,
-    "third": 1,
-    "maxname": "Emmanuel Macron",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
-    "secondname": "Jean-Luc Mélenchon",
-    "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
-    "subtitle": ""
-  },
-  {
-    "region": "Alpes-Maritimes",
-    "max": 2,
-    "second": 7,
-    "third": 1,
-    "maxname": "Emmanuel Macron",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
-    "secondname": "Jean-Luc Mélenchon",
-    "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -524,7 +452,31 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
+    "subtitle": ""
+  },
+  {
+    "region": "Seine-Maritime",
+    "max": 2,
+    "second": 7,
+    "third": 1,
+    "maxname": "Emmanuel Macron",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
+    "secondname": "Jean-Luc Mélenchon",
+    "thirdname": "Benoît Hamon",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
+    "subtitle": ""
+  },
+  {
+    "region": "Alpes-Maritimes",
+    "max": 2,
+    "second": 7,
+    "third": 1,
+    "maxname": "Emmanuel Macron",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
+    "secondname": "Jean-Luc Mélenchon",
+    "thirdname": "Benoît Hamon",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -536,7 +488,31 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
+    "subtitle": ""
+  },
+  {
+    "region": "Deux-Sèvres",
+    "max": 2,
+    "second": 7,
+    "third": 1,
+    "maxname": "Emmanuel Macron",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
+    "secondname": "Jean-Luc Mélenchon",
+    "thirdname": "Benoît Hamon",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
+    "subtitle": ""
+  },
+  {
+    "region": "Manche",
+    "max": 2,
+    "second": 7,
+    "third": 1,
+    "maxname": "Emmanuel Macron",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
+    "secondname": "Jean-Luc Mélenchon",
+    "thirdname": "Benoît Hamon",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -548,19 +524,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
-    "subtitle": ""
-  },
-  {
-    "region": "Loiret",
-    "max": 2,
-    "second": 7,
-    "third": 1,
-    "maxname": "Emmanuel Macron",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
-    "secondname": "Jean-Luc Mélenchon",
-    "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -572,7 +536,43 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
+    "subtitle": ""
+  },
+  {
+    "region": "Corrèze",
+    "max": 2,
+    "second": 7,
+    "third": 8,
+    "maxname": "Emmanuel Macron",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
+    "secondname": "Jean-Luc Mélenchon",
+    "thirdname": "Marine Le Pen",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
+    "subtitle": ""
+  },
+  {
+    "region": "Seine-Saint-Denis",
+    "max": 2,
+    "second": 7,
+    "third": 1,
+    "maxname": "Emmanuel Macron",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
+    "secondname": "Jean-Luc Mélenchon",
+    "thirdname": "Benoît Hamon",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
+    "subtitle": ""
+  },
+  {
+    "region": "Loiret",
+    "max": 2,
+    "second": 7,
+    "third": 1,
+    "maxname": "Emmanuel Macron",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
+    "secondname": "Jean-Luc Mélenchon",
+    "thirdname": "Benoît Hamon",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -584,19 +584,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
-    "subtitle": ""
-  },
-  {
-    "region": "Isère",
-    "max": 2,
-    "second": 1,
-    "third": 7,
-    "maxname": "Emmanuel Macron",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
-    "secondname": "Benoît Hamon",
-    "thirdname": "Jean-Luc Mélenchon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -608,59 +596,11 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Benoît Hamon",
     "thirdname": "Jean-Luc Mélenchon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
-    "region": "Tarn",
-    "max": 2,
-    "second": 7,
-    "third": 1,
-    "maxname": "Emmanuel Macron",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
-    "secondname": "Jean-Luc Mélenchon",
-    "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
-    "subtitle": ""
-  },
-  {
-    "region": "Pyrénées-Orientales",
-    "max": 2,
-    "second": 7,
-    "third": 1,
-    "maxname": "Emmanuel Macron",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
-    "secondname": "Jean-Luc Mélenchon",
-    "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
-    "subtitle": ""
-  },
-  {
-    "region": "Charente",
-    "max": 2,
-    "second": 7,
-    "third": 1,
-    "maxname": "Emmanuel Macron",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
-    "secondname": "Jean-Luc Mélenchon",
-    "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
-    "subtitle": ""
-  },
-  {
-    "region": "Orne",
-    "max": 2,
-    "second": 7,
-    "third": 1,
-    "maxname": "Emmanuel Macron",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
-    "secondname": "Jean-Luc Mélenchon",
-    "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
-    "subtitle": ""
-  },
-  {
-    "region": "Vaucluse",
+    "region": "Isère",
     "max": 2,
     "second": 1,
     "third": 7,
@@ -668,19 +608,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Benoît Hamon",
     "thirdname": "Jean-Luc Mélenchon",
-    "title": "Les candidats les plus recherchés pendant le débat",
-    "subtitle": ""
-  },
-  {
-    "region": "Eure",
-    "max": 2,
-    "second": 7,
-    "third": 1,
-    "maxname": "Emmanuel Macron",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
-    "secondname": "Jean-Luc Mélenchon",
-    "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -692,7 +620,79 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
+    "subtitle": ""
+  },
+  {
+    "region": "Vaucluse",
+    "max": 2,
+    "second": 1,
+    "third": 7,
+    "maxname": "Emmanuel Macron",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
+    "secondname": "Benoît Hamon",
+    "thirdname": "Jean-Luc Mélenchon",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
+    "subtitle": ""
+  },
+  {
+    "region": "Pyrénées-Orientales",
+    "max": 2,
+    "second": 7,
+    "third": 1,
+    "maxname": "Emmanuel Macron",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
+    "secondname": "Jean-Luc Mélenchon",
+    "thirdname": "Benoît Hamon",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
+    "subtitle": ""
+  },
+  {
+    "region": "Orne",
+    "max": 2,
+    "second": 7,
+    "third": 1,
+    "maxname": "Emmanuel Macron",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
+    "secondname": "Jean-Luc Mélenchon",
+    "thirdname": "Benoît Hamon",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
+    "subtitle": ""
+  },
+  {
+    "region": "Tarn",
+    "max": 2,
+    "second": 7,
+    "third": 1,
+    "maxname": "Emmanuel Macron",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
+    "secondname": "Jean-Luc Mélenchon",
+    "thirdname": "Benoît Hamon",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
+    "subtitle": ""
+  },
+  {
+    "region": "Eure",
+    "max": 2,
+    "second": 7,
+    "third": 1,
+    "maxname": "Emmanuel Macron",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
+    "secondname": "Jean-Luc Mélenchon",
+    "thirdname": "Benoît Hamon",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
+    "subtitle": ""
+  },
+  {
+    "region": "Charente",
+    "max": 2,
+    "second": 7,
+    "third": 1,
+    "maxname": "Emmanuel Macron",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
+    "secondname": "Jean-Luc Mélenchon",
+    "thirdname": "Benoît Hamon",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -704,7 +704,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -716,19 +716,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
-    "subtitle": ""
-  },
-  {
-    "region": "Eure-et-Loir",
-    "max": 2,
-    "second": 7,
-    "third": 1,
-    "maxname": "Emmanuel Macron",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
-    "secondname": "Jean-Luc Mélenchon",
-    "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -740,19 +728,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
-    "subtitle": ""
-  },
-  {
-    "region": "Dordogne",
-    "max": 2,
-    "second": 7,
-    "third": 1,
-    "maxname": "Emmanuel Macron",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
-    "secondname": "Jean-Luc Mélenchon",
-    "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -764,7 +740,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -776,7 +752,31 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
+    "subtitle": ""
+  },
+  {
+    "region": "Dordogne",
+    "max": 2,
+    "second": 7,
+    "third": 1,
+    "maxname": "Emmanuel Macron",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
+    "secondname": "Jean-Luc Mélenchon",
+    "thirdname": "Benoît Hamon",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
+    "subtitle": ""
+  },
+  {
+    "region": "Eure-et-Loir",
+    "max": 2,
+    "second": 7,
+    "third": 1,
+    "maxname": "Emmanuel Macron",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
+    "secondname": "Jean-Luc Mélenchon",
+    "thirdname": "Benoît Hamon",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -788,7 +788,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -800,7 +800,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -812,7 +812,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -824,7 +824,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -836,19 +836,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
-    "subtitle": ""
-  },
-  {
-    "region": "Alpes-de-Haute-Provence",
-    "max": 2,
-    "second": 7,
-    "third": 1,
-    "maxname": "Emmanuel Macron",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
-    "secondname": "Jean-Luc Mélenchon",
-    "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -860,11 +848,11 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
-    "region": "Nièvre",
+    "region": "Alpes-de-Haute-Provence",
     "max": 2,
     "second": 7,
     "third": 1,
@@ -872,19 +860,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
-    "subtitle": ""
-  },
-  {
-    "region": "Indre",
-    "max": 2,
-    "second": 7,
-    "third": 1,
-    "maxname": "Emmanuel Macron",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
-    "secondname": "Jean-Luc Mélenchon",
-    "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -896,7 +872,31 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
+    "subtitle": ""
+  },
+  {
+    "region": "Nièvre",
+    "max": 2,
+    "second": 7,
+    "third": 1,
+    "maxname": "Emmanuel Macron",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
+    "secondname": "Jean-Luc Mélenchon",
+    "thirdname": "Benoît Hamon",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
+    "subtitle": ""
+  },
+  {
+    "region": "Indre",
+    "max": 2,
+    "second": 7,
+    "third": 1,
+    "maxname": "Emmanuel Macron",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
+    "secondname": "Jean-Luc Mélenchon",
+    "thirdname": "Benoît Hamon",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -908,7 +908,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -920,7 +920,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -932,7 +932,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -944,7 +944,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/melenchon1.png",
     "secondname": "Emmanuel Macron",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -956,7 +956,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -968,7 +968,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -980,7 +980,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -992,7 +992,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -1004,7 +1004,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -1016,7 +1016,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -1028,7 +1028,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -1040,19 +1040,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
-    "subtitle": ""
-  },
-  {
-    "region": "Ariège",
-    "max": 2,
-    "second": 7,
-    "third": 1,
-    "maxname": "Emmanuel Macron",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
-    "secondname": "Jean-Luc Mélenchon",
-    "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -1064,7 +1052,19 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
+    "subtitle": ""
+  },
+  {
+    "region": "Ariège",
+    "max": 2,
+    "second": 7,
+    "third": 1,
+    "maxname": "Emmanuel Macron",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
+    "secondname": "Jean-Luc Mélenchon",
+    "thirdname": "Benoît Hamon",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -1076,7 +1076,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -1088,7 +1088,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -1100,7 +1100,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -1112,7 +1112,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -1124,7 +1124,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -1136,7 +1136,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Marine Le Pen",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -1148,7 +1148,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Marine Le Pen",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -1160,7 +1160,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/melenchon1.png",
     "secondname": "Emmanuel Macron",
     "thirdname": "François Fillon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -1172,7 +1172,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean-Luc Mélenchon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -1184,7 +1184,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Jean-Luc Mélenchon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -1196,7 +1196,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "François Fillon",
     "thirdname": "Jean-Luc Mélenchon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   },
   {
@@ -1208,7 +1208,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "François Fillon",
     "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés pendant le débat",
+    "title": "Les candidats les plus recherchés pendant le premier débat",
     "subtitle": ""
   }
 ]
