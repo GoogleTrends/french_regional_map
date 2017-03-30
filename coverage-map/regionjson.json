@@ -4,12 +4,12 @@
     "abbreviation": "GF",
     "max": 4,
     "second": 2,
-    "third": 1,
+    "third": 7,
     "maxname": "François Fillon",
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
     "secondname": "Emmanuel Macron",
-    "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés depuis samedi dernier",
+    "thirdname": "Jean-Luc Mélenchon",
+    "title": "Les candidats les plus recherchés depuis mardi dernier",
     "subtitle": ""
   },
   {
@@ -17,12 +17,12 @@
     "abbreviation": "MQ",
     "max": 4,
     "second": 2,
-    "third": 1,
+    "third": 7,
     "maxname": "François Fillon",
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
     "secondname": "Emmanuel Macron",
-    "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés depuis samedi dernier",
+    "thirdname": "Jean-Luc Mélenchon",
+    "title": "Les candidats les plus recherchés depuis mardi dernier",
     "subtitle": ""
   },
   {
@@ -30,12 +30,12 @@
     "abbreviation": "GP",
     "max": 4,
     "second": 2,
-    "third": 1,
+    "third": 7,
     "maxname": "François Fillon",
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
     "secondname": "Emmanuel Macron",
-    "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés depuis samedi dernier",
+    "thirdname": "Jean-Luc Mélenchon",
+    "title": "Les candidats les plus recherchés depuis mardi dernier",
     "subtitle": ""
   },
   {
@@ -48,20 +48,20 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean-Luc Mélenchon",
-    "title": "Les candidats les plus recherchés depuis samedi dernier",
+    "title": "Les candidats les plus recherchés depuis mardi dernier",
     "subtitle": ""
   },
   {
     "Region": "Réunion",
     "abbreviation": "RE",
-    "max": 4,
-    "second": 2,
+    "max": 2,
+    "second": 4,
     "third": 7,
-    "maxname": "François Fillon",
-    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
-    "secondname": "Emmanuel Macron",
+    "maxname": "Emmanuel Macron",
+    "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
+    "secondname": "François Fillon",
     "thirdname": "Jean-Luc Mélenchon",
-    "title": "Les candidats les plus recherchés depuis samedi dernier",
+    "title": "Les candidats les plus recherchés depuis mardi dernier",
     "subtitle": ""
   },
   {
@@ -74,7 +74,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean-Luc Mélenchon",
-    "title": "Les candidats les plus recherchés depuis samedi dernier",
+    "title": "Les candidats les plus recherchés depuis mardi dernier",
     "subtitle": ""
   },
   {
@@ -87,7 +87,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean-Luc Mélenchon",
-    "title": "Les candidats les plus recherchés depuis samedi dernier",
+    "title": "Les candidats les plus recherchés depuis mardi dernier",
     "subtitle": ""
   },
   {
@@ -95,12 +95,12 @@
     "abbreviation": "BT",
     "max": 4,
     "second": 2,
-    "third": 1,
+    "third": 7,
     "maxname": "François Fillon",
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
     "secondname": "Emmanuel Macron",
-    "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés depuis samedi dernier",
+    "thirdname": "Jean-Luc Mélenchon",
+    "title": "Les candidats les plus recherchés depuis mardi dernier",
     "subtitle": ""
   },
   {
@@ -113,7 +113,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean-Luc Mélenchon",
-    "title": "Les candidats les plus recherchés depuis samedi dernier",
+    "title": "Les candidats les plus recherchés depuis mardi dernier",
     "subtitle": ""
   },
   {
@@ -121,12 +121,12 @@
     "abbreviation": "CE",
     "max": 4,
     "second": 2,
-    "third": 8,
+    "third": 7,
     "maxname": "François Fillon",
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
     "secondname": "Emmanuel Macron",
-    "thirdname": "Marine Le Pen",
-    "title": "Les candidats les plus recherchés depuis samedi dernier",
+    "thirdname": "Jean-Luc Mélenchon",
+    "title": "Les candidats les plus recherchés depuis mardi dernier",
     "subtitle": ""
   },
   {
@@ -139,7 +139,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean-Luc Mélenchon",
-    "title": "Les candidats les plus recherchés depuis samedi dernier",
+    "title": "Les candidats les plus recherchés depuis mardi dernier",
     "subtitle": ""
   },
   {
@@ -152,7 +152,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean-Luc Mélenchon",
-    "title": "Les candidats les plus recherchés depuis samedi dernier",
+    "title": "Les candidats les plus recherchés depuis mardi dernier",
     "subtitle": ""
   },
   {
@@ -160,12 +160,12 @@
     "abbreviation": "IF",
     "max": 4,
     "second": 2,
-    "third": 1,
+    "third": 7,
     "maxname": "François Fillon",
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
     "secondname": "Emmanuel Macron",
-    "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés depuis samedi dernier",
+    "thirdname": "Jean-Luc Mélenchon",
+    "title": "Les candidats les plus recherchés depuis mardi dernier",
     "subtitle": ""
   },
   {
@@ -178,7 +178,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean-Luc Mélenchon",
-    "title": "Les candidats les plus recherchés depuis samedi dernier",
+    "title": "Les candidats les plus recherchés depuis mardi dernier",
     "subtitle": ""
   },
   {
@@ -186,12 +186,12 @@
     "abbreviation": "PL",
     "max": 4,
     "second": 2,
-    "third": 1,
+    "third": 7,
     "maxname": "François Fillon",
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
     "secondname": "Emmanuel Macron",
-    "thirdname": "Benoît Hamon",
-    "title": "Les candidats les plus recherchés depuis samedi dernier",
+    "thirdname": "Jean-Luc Mélenchon",
+    "title": "Les candidats les plus recherchés depuis mardi dernier",
     "subtitle": ""
   },
   {
@@ -199,12 +199,12 @@
     "abbreviation": "PR",
     "max": 4,
     "second": 2,
-    "third": 8,
+    "third": 7,
     "maxname": "François Fillon",
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
     "secondname": "Emmanuel Macron",
-    "thirdname": "Marine Le Pen",
-    "title": "Les candidats les plus recherchés depuis samedi dernier",
+    "thirdname": "Jean-Luc Mélenchon",
+    "title": "Les candidats les plus recherchés depuis mardi dernier",
     "subtitle": ""
   },
   {
@@ -217,7 +217,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean-Luc Mélenchon",
-    "title": "Les candidats les plus recherchés depuis samedi dernier",
+    "title": "Les candidats les plus recherchés depuis mardi dernier",
     "subtitle": ""
   },
   {
@@ -230,7 +230,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean-Luc Mélenchon",
-    "title": "Les candidats les plus recherchés depuis samedi dernier",
+    "title": "Les candidats les plus recherchés depuis mardi dernier",
     "subtitle": ""
   },
   {
@@ -243,7 +243,7 @@
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/fillon.png",
     "secondname": "Emmanuel Macron",
     "thirdname": "Jean-Luc Mélenchon",
-    "title": "Les candidats les plus recherchés depuis samedi dernier",
+    "title": "Les candidats les plus recherchés depuis mardi dernier",
     "subtitle": ""
   }
 ]
