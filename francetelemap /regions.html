@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Google News Lab</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js" charset="utf-8"></script>
+    <link rel="stylesheet" type="text/css" href="js/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="map.css">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js" charset="utf-8"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js"
+            charset="utf-8"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.2.0/raphael-min.js" charset="utf-8"></script>
+    <script src="js/jquery.mapael.js" charset="utf-8"></script>
+    <script src="js/maps/france_13_regions.js" charset="utf-8"></script>
+        <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
+
+    <script type="text/javascript">
+      $(function () {
+        // Get the data
+        $.getJSON("regionjson.json", function (data, elem) {
+            // Success
+            // This variable will hold all the plots of our map
+            var areas = {};
+            var legendBottom = [];
+            var elem
+            var max =[];
+
+
+            var title = "";
+            var subtitle = "";
+
+            
+
+
+            // Parse each elements
+            $.each(data, function (id, elem) {
+
+               if(title == ""){
+               title = elem.title;
+               $(".title").text(title);
+             } 
+
+             if(subtitle == ""){
+
+                subtitle= elem.subtitle;
+                $(".subtitle").text(subtitle);
+
+             }
+
+            
+
+
+                // Check if we have the GPS position of the element
+              if (elem['Region']) {
+
+
+
+
+
+                    // Will hold the plot information
+                    var area = {};
+                    // Assign position
+                    area.value = elem.max;
+                    // Assign some information inside the tooltip
+                    area.tooltip = {
+                        content: "<span style='font-weight:bold;'>" +
+                                    elem['Region']+
+                                 "</span>" +
+                                "<br/>1." + elem.maxname + "<br/>"
+                                + "<img src='"+elem.image+"'+ width='100%'><br /> 2. "+elem.secondname+"<br /> 3. "+ elem.thirdname+ ""
+                    };
+                    area['text'] = {'content': elem.abbreviation, 'attrs':{'fill':'white', 'font-size':11}};
+                    // Set plot element to array
+                    areas[elem['Region']] = area;
+                    if(!(elem.max in legendBottom)) {
+                     legendBottom[elem.max] = {count:0, name:elem.maxname, idmax:elem.max};
+                    }
+                    legendBottom[elem.max].count++;
+                } else {
+                    console.warn("Ignored element " + id + " without GPS position");
+                }
+            });
+
+            for(var key in legendBottom){
+              $("#legend").append("<div class='box box"+ legendBottom[key].idmax+"'></div><p>"+legendBottom[key].name+"</p> <br>");
+            }
+
+            $(".mapcontainer").mapael({
+                map: {
+                    name: "france_region",
+                    defaultArea: {
+                        attrs: {
+                            stroke: "#fff",
+                            "stroke-width": 1
+                        },
+                        attrsHover: {
+                            "stroke-width": 2
+                        }
+                    },
+
+                },
+                legend: {
+
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                   
+                    
+                    
+                    
+
+
+                    area: {
+                        mode: "vertical",
+                        title: "",
+                        display:true,
+                        exclusive:true,
+                        slices: [
+                            {
+                                max: 1,
+                                attrs: {
+                                    fill: "#FF6DAA"
+
+                                },
+                                label: "Benoît Hamon"
+                            },
+                            {
+                                min: 2,
+                                max: 2,
+                                attrs: {
+                                    fill: "#CCCAC2"
+                                },
+                                label: "Emmanuel Macron"
+                            },
+                            {
+                                min: 3,
+                                max: 3,
+                                attrs: {
+                                    fill: "#93769B"
+                                },
+                                label: "François Asselineau"
+                            },
+                            {
+
+                                min: 4,
+                                max: 4,
+                                attrs: {
+                                    fill: "#005CE6"
+                                },
+                                label: "François Fillon"
+                            },
+                                                        {
+                                min: 5,
+                                max: 5,
+                                attrs: {
+                                    fill: "#93769B"
+                                },
+                                label: "Jacques Cheminade"
+                            },
+                                                        {
+                                min: 6,
+                                max: 6,
+                                attrs: {
+                                    fill: "#93769B"
+                                },
+                                label: "Jean Lasalle"
+                            },
+                                                        {
+                                min: 7,
+                                max: 7,
+                                attrs: {
+                                    fill: "#DB1616"
+                                },
+                                label: "Jean-Luc Mélenchon"
+                            },
+                                                                                    {
+                                min: 8,
+                                max: 8,
+                                attrs: {
+                                    fill: " #002E61"
+                                },
+                                label: "Marine Le Pen"
+                            },
+                                                                                    {
+                                min: 9,
+                                max: 9,
+                                attrs: {
+                                    fill: "#9E0000"
+                                },
+                                label: "Nathalie Artaud"
+                            },
+                                                                                    {
+                                min: 10,
+                                max: 10,
+                                attrs: {
+                                    fill: "#1019C1"
+                                },
+                                label: "Nicolas Dupont Aignan"
+                            },
+                                                                                                                {
+                                min: 11,
+                                max: 11,
+                                attrs: {
+                                    fill: "#9E0000"
+                                },
+                                label: "Philippe Poutou"
+                            }
+                        ]
+                    }
+                },
+                areas: areas,
+
+                // Add some plots on the map
+                plots: {
+                    // Image plot
+                                        // Circle plot
+                            'line_right': {
+                                type: "svg",
+                                path: "M 50 50 l 0 300 l 200 0 l 0 -300 l -200 0",
+                                width: 1,
+                                height: 500,
+                                x: 200.758888888889,
+                                y: 220.8413888888889,
+                                attrs : {
+                            opacity : 1,
+                            fill: "grey"},
+                           },
+
+                            'line_left': {
+                                type: "svg",
+                                path: "M 50 50 l 0 300 l 200 0 l 0 -300 l -200 0",
+                                width: 1,
+                                height: 500,
+                                x: 60.758888888889,
+                                y: 220.8413888888889,
+                                attrs : {
+                                opacity : 1,
+                                fill: "grey"},
+                            },
+
+                    }
+
+            })
+
+         });
+      });
+    </script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-92540022-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</head>
+
+<body>
+
+
+<div class="container">
+
+    <div class="second-container">
+
+        <div class="header-container">
+            <div class="col-md-10">
+                <div id="header">
+                    <h1 class="title"></h1>
+                    <h2 class="subtitle"></h2>
+                </div>
+                 <img src="Images/logotrends.png" width="15%">
+            </div>
+            <div class="col-md-2">
+                <div id="trendslogo">
+
+                </div>
+            </div>
+        </div>
+
+
+    <div class="col-md-9">
+
+    <div class="mapcontainer">
+        <div class="map">
+        </div>
+
+    </div>
+    </div>
+     <div class="col-md-3">
+            <div id="legend">
+                <h2 class="legendTitle">Candidats</h2>
+
+           </div>
+
+
+
+</div>
+</div>
+
+
+</body>
+</html>
