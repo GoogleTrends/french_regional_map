@@ -4,26 +4,26 @@
     "abbreviation": "GF",
     "max": 2,
     "second": 8,
-    "third": 10,
+    "third": 7,
     "maxname": "Emmanuel Macron",
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Marine Le Pen",
-    "thirdname": "Nicolas Dupont-Aignan",
+    "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 02/05 à 08h)"
+    "subtitle": "(Dernière mise à jour le 03/05 à 08h)"
   },
   {
     "Region": "Martinique",
     "abbreviation": "MQ",
     "max": 2,
     "second": 8,
-    "third": 10,
+    "third": 4,
     "maxname": "Emmanuel Macron",
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Marine Le Pen",
-    "thirdname": "Nicolas Dupont-Aignan",
+    "thirdname": "François Fillon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 02/05 à 08h)"
+    "subtitle": "(Dernière mise à jour le 03/05 à 08h)"
   },
   {
     "Region": "Guadeloupe",
@@ -36,20 +36,20 @@
     "secondname": "Marine Le Pen",
     "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 02/05 à 08h)"
+    "subtitle": "(Dernière mise à jour le 03/05 à 08h)"
   },
   {
     "Region": "Mayotte",
     "abbreviation": "MT",
     "max": 2,
     "second": 8,
-    "third": 7,
+    "third": 4,
     "maxname": "Emmanuel Macron",
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Marine Le Pen",
-    "thirdname": "Jean-Luc Mélenchon",
+    "thirdname": "François Fillon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 02/05 à 08h)"
+    "subtitle": "(Dernière mise à jour le 03/05 à 08h)"
   },
   {
     "Region": "Réunion",
@@ -62,163 +62,163 @@
     "secondname": "Marine Le Pen",
     "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 02/05 à 08h)"
+    "subtitle": "(Dernière mise à jour le 03/05 à 08h)"
   },
   {
     "Region": "Auvergne-Rhône-Alpes",
     "abbreviation": "AR",
     "max": 2,
     "second": 8,
-    "third": 10,
+    "third": 7,
     "maxname": "Emmanuel Macron",
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Marine Le Pen",
-    "thirdname": "Nicolas Dupont-Aignan",
+    "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 02/05 à 08h)"
+    "subtitle": "(Dernière mise à jour le 03/05 à 08h)"
   },
   {
     "Region": "Bourgogne-Franche-Comté",
     "abbreviation": "BF",
     "max": 2,
     "second": 8,
-    "third": 10,
+    "third": 7,
     "maxname": "Emmanuel Macron",
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Marine Le Pen",
-    "thirdname": "Nicolas Dupont-Aignan",
+    "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 02/05 à 08h)"
+    "subtitle": "(Dernière mise à jour le 03/05 à 08h)"
   },
   {
     "Region": "Bretagne",
     "abbreviation": "BT",
     "max": 2,
     "second": 8,
-    "third": 10,
+    "third": 4,
     "maxname": "Emmanuel Macron",
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Marine Le Pen",
-    "thirdname": "Nicolas Dupont-Aignan",
+    "thirdname": "François Fillon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 02/05 à 08h)"
+    "subtitle": "(Dernière mise à jour le 03/05 à 08h)"
   },
   {
     "Region": "Centre-Val de Loire",
     "abbreviation": "CV",
     "max": 2,
     "second": 8,
-    "third": 10,
+    "third": 4,
     "maxname": "Emmanuel Macron",
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Marine Le Pen",
-    "thirdname": "Nicolas Dupont-Aignan",
+    "thirdname": "François Fillon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 02/05 à 08h)"
+    "subtitle": "(Dernière mise à jour le 03/05 à 08h)"
   },
   {
     "Region": "Corse",
     "abbreviation": "CE",
     "max": 2,
     "second": 8,
-    "third": 10,
+    "third": 4,
     "maxname": "Emmanuel Macron",
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Marine Le Pen",
-    "thirdname": "Nicolas Dupont-Aignan",
+    "thirdname": "François Fillon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 02/05 à 08h)"
+    "subtitle": "(Dernière mise à jour le 03/05 à 08h)"
   },
   {
     "Region": "Grand Est",
     "abbreviation": "GE",
     "max": 2,
     "second": 8,
-    "third": 10,
+    "third": 4,
     "maxname": "Emmanuel Macron",
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Marine Le Pen",
-    "thirdname": "Nicolas Dupont-Aignan",
+    "thirdname": "François Fillon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 02/05 à 08h)"
+    "subtitle": "(Dernière mise à jour le 03/05 à 08h)"
   },
   {
     "Region": "Hauts-de-France",
     "abbreviation": "HF",
     "max": 2,
     "second": 8,
-    "third": 10,
+    "third": 7,
     "maxname": "Emmanuel Macron",
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Marine Le Pen",
-    "thirdname": "Nicolas Dupont-Aignan",
+    "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 02/05 à 08h)"
+    "subtitle": "(Dernière mise à jour le 03/05 à 08h)"
   },
   {
     "Region": "Île-de-France",
     "abbreviation": "IF",
     "max": 2,
     "second": 8,
-    "third": 10,
+    "third": 7,
     "maxname": "Emmanuel Macron",
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Marine Le Pen",
-    "thirdname": "Nicolas Dupont-Aignan",
+    "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 02/05 à 08h)"
+    "subtitle": "(Dernière mise à jour le 03/05 à 08h)"
   },
   {
     "Region": "Nouvelle-Aquitaine",
     "abbreviation": "NQ",
     "max": 2,
     "second": 8,
-    "third": 10,
+    "third": 7,
     "maxname": "Emmanuel Macron",
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Marine Le Pen",
-    "thirdname": "Nicolas Dupont-Aignan",
+    "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 02/05 à 08h)"
+    "subtitle": "(Dernière mise à jour le 03/05 à 08h)"
   },
   {
     "Region": "Pays de la Loire",
     "abbreviation": "PL",
     "max": 2,
     "second": 8,
-    "third": 10,
+    "third": 4,
     "maxname": "Emmanuel Macron",
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Marine Le Pen",
-    "thirdname": "Nicolas Dupont-Aignan",
+    "thirdname": "François Fillon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 02/05 à 08h)"
+    "subtitle": "(Dernière mise à jour le 03/05 à 08h)"
   },
   {
     "Region": "PACA",
     "abbreviation": "PR",
     "max": 2,
     "second": 8,
-    "third": 10,
+    "third": 7,
     "maxname": "Emmanuel Macron",
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Marine Le Pen",
-    "thirdname": "Nicolas Dupont-Aignan",
+    "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 02/05 à 08h)"
+    "subtitle": "(Dernière mise à jour le 03/05 à 08h)"
   },
   {
     "Region": "Normandie",
     "abbreviation": "NO",
     "max": 2,
     "second": 8,
-    "third": 10,
+    "third": 7,
     "maxname": "Emmanuel Macron",
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Marine Le Pen",
-    "thirdname": "Nicolas Dupont-Aignan",
+    "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 02/05 à 08h)"
+    "subtitle": "(Dernière mise à jour le 03/05 à 08h)"
   },
   {
     "Region": "Occitanie",
@@ -231,19 +231,19 @@
     "secondname": "Marine Le Pen",
     "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 02/05 à 08h)"
+    "subtitle": "(Dernière mise à jour le 03/05 à 08h)"
   },
   {
     "Region": "Auvergne-Rhône-Alpes",
     "abbreviation": "AR",
     "max": 2,
     "second": 8,
-    "third": 10,
+    "third": 7,
     "maxname": "Emmanuel Macron",
     "image": "https://raw.githubusercontent.com/GoogleTrends/visualassets/master/france_presidential_election/macron.png",
     "secondname": "Marine Le Pen",
-    "thirdname": "Nicolas Dupont-Aignan",
+    "thirdname": "Jean-Luc Mélenchon",
     "title": "Les candidats les plus recherchés au cours des dernières 24 heures ",
-    "subtitle": "(Dernière mise à jour le 02/05 à 08h)"
+    "subtitle": "(Dernière mise à jour le 03/05 à 08h)"
   }
 ]
