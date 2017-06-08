@@ -2,14 +2,14 @@
         body {
             color: white;
             font-family: Helvetica, Arial, sans-serif;
-            background-color: #71749c
+            background-color: white;
         }
 
         h1 {
             font-size: 30px;
             margin: auto;
             margin-top: 50px;
-            color:white;
+            color:black;
         }
 
 /* Defines top padding of map    */
@@ -131,17 +131,17 @@
 
     .box1{
 
-      background-color:#FF6DAA;
+      background-color:#9859FC;
       display: inline-block;
     }
 
     .box2 {
-      background-color: #CCCAC2;
+      background-color: #002E61;
       display: inline-block;
     }
 
     .box3 {
-      background-color: #93769B;
+      background-color: #1019C1;
       display: inline-block;
     }
 
@@ -151,12 +151,12 @@
     }
 
     .box5 {
-      background-color: #93769B;
+      background-color: #FF8400;
       display: inline-block;
     }
 
     .box6 {
-      background-color: #93769B;
+      background-color: #FF6DAA;
       display: inline-block;
     }
 
@@ -165,11 +165,11 @@
       display: inline-block;
     }
         .box8 {
-      background-color: #002E61;
+      background-color: #AF0000;
       display: inline-block;
     }
         .box9 {
-      background-color: #9E0000;
+      background-color: #2ECC2E;
       display: inline-block;
     }
         .box10 {
@@ -253,7 +253,7 @@
           margin-bottom: 0px !important;
           line-height: 37px;
           display: inline;
-          color: "white";
+          color: "black";
           text-transform: uppercase;
     }
 
@@ -301,7 +301,7 @@
           font-size: 25px;
           margin-bottom: 0px !important;
           line-height: 37px;
-          color:white;
+          color:black;
           font-weight: 400;
           padding-left: 10px;
           

@@ -224,7 +224,7 @@
                                 y: 200.8413888888889,
                                 attrs : {
                             opacity : 1,
-                            fill: "white"},
+                            fill: "gray"},
                            },
 
                             'line_left': {
@@ -236,7 +236,7 @@
                                 y: 200.8413888888889,
                                 attrs : {
                                 opacity : 1,
-                                fill: "white"},
+                                fill: "gray"},
                             },
 
                     }
@@ -293,7 +293,7 @@
     </div>
      <div class="col-md-3">
             <div id="legend">
-                <h2 class="legendTitle">Candidats</h2>
+                <h2 class="legendTitle">Parti(s)</h2>
 
            </div>
 
