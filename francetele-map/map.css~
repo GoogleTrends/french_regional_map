@@ -131,17 +131,17 @@
 
     .box1{
 
-      background-color:#9859FC;
+      background-color:#FF6DAA;
       display: inline-block;
     }
 
     .box2 {
-      background-color: #002E61;
+      background-color: #CCCAC2;
       display: inline-block;
     }
 
     .box3 {
-      background-color: #1019C1;
+      background-color: #93769B;
       display: inline-block;
     }
 
@@ -151,12 +151,12 @@
     }
 
     .box5 {
-      background-color: #FF8400;
+      background-color: #93769B;
       display: inline-block;
     }
 
     .box6 {
-      background-color: #FF6DAA;
+      background-color: #93769B;
       display: inline-block;
     }
 
@@ -165,11 +165,11 @@
       display: inline-block;
     }
         .box8 {
-      background-color: #AF0000;
+      background-color: #002E61;
       display: inline-block;
     }
         .box9 {
-      background-color: #2ECC2E;
+      background-color: #9E0000;
       display: inline-block;
     }
         .box10 {
