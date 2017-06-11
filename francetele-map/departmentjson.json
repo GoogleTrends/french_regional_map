@@ -1,16 +1,5 @@
 [
   {
-    "region": "Haute-Vienne",
-    "max": 1,
-    "second": 6,
-    "third": 2,
-    "maxname": "La République en marche",
-    "secondname": "Parti socialiste",
-    "thirdname": "Front National",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
     "region": "Hauts-de-Seine",
     "max": 1,
     "second": 2,
@@ -22,23 +11,13 @@
     "subtitle": ""
   },
   {
-    "region": "Cantal",
+    "region": "Haute-Vienne",
     "max": 1,
-    "second": 8,
+    "second": 6,
     "third": 2,
     "maxname": "La République en marche",
+    "secondname": "Parti socialiste",
     "thirdname": "Front National",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Paris",
-    "max": 1,
-    "second": 2,
-    "third": 6,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "Parti socialiste",
     "title": "Les partis les plus recherchés près de chez vous",
     "subtitle": ""
   },
@@ -54,282 +33,7 @@
     "subtitle": ""
   },
   {
-    "region": "Yvelines",
-    "max": 1,
-    "second": 2,
-    "third": 6,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "Parti socialiste",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Deux-Sèvres",
-    "max": 1,
-    "second": 2,
-    "third": 6,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "Parti socialiste",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Morbihan",
-    "max": 1,
-    "second": 2,
-    "third": 6,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "Parti socialiste",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Savoie",
-    "max": 1,
-    "second": 2,
-    "third": 6,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "Parti socialiste",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Lot",
-    "max": 1,
-    "second": 2,
-    "third": 7,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "La France insoumise",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Haute-Garonne",
-    "max": 1,
-    "second": 2,
-    "third": 7,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "La France insoumise",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Marne",
-    "max": 1,
-    "second": 2,
-    "third": 6,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "Parti socialiste",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Val-de-Marne",
-    "max": 1,
-    "second": 2,
-    "third": 6,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "Parti socialiste",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Ardèche",
-    "max": 1,
-    "second": 2,
-    "third": 6,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "Parti socialiste",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Gers",
-    "max": 1,
-    "second": 2,
-    "third": 7,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "La France insoumise",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Tarn",
-    "max": 1,
-    "second": 2,
-    "third": 7,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "La France insoumise",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Gironde",
-    "max": 1,
-    "second": 2,
-    "third": 7,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "La France insoumise",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Drôme",
-    "max": 1,
-    "second": 2,
-    "third": 6,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "Parti socialiste",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Ille-et-Vilaine",
-    "max": 1,
-    "second": 2,
-    "third": 7,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "La France insoumise",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Bas-Rhin",
-    "max": 1,
-    "second": 2,
-    "third": 6,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "Parti socialiste",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Allier",
-    "max": 1,
-    "second": 2,
-    "third": 7,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "La France insoumise",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Seine-Maritime",
-    "max": 1,
-    "second": 2,
-    "third": 6,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "Parti socialiste",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Vienne",
-    "max": 1,
-    "second": 2,
-    "third": 6,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "Parti socialiste",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Bouches-du-Rhône",
-    "max": 1,
-    "second": 2,
-    "third": 7,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "La France insoumise",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Var",
-    "max": 1,
-    "second": 2,
-    "third": 7,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "La France insoumise",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Finistère",
-    "max": 1,
-    "second": 2,
-    "third": 6,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "Parti socialiste",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Indre-et-Loire",
-    "max": 1,
-    "second": 2,
-    "third": 7,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "La France insoumise",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Sarthe",
-    "max": 1,
-    "second": 2,
-    "third": 7,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "La France insoumise",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Vosges",
-    "max": 1,
-    "second": 2,
-    "third": 6,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "Parti socialiste",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Puy-de-Dôme",
-    "max": 1,
-    "second": 2,
-    "third": 7,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "La France insoumise",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Loire-Atlantique",
+    "region": "Paris",
     "max": 1,
     "second": 2,
     "third": 6,
@@ -351,18 +55,7 @@
     "subtitle": ""
   },
   {
-    "region": "Maine-et-Loire",
-    "max": 1,
-    "second": 2,
-    "third": 7,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "La France insoumise",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Creuse",
+    "region": "Morbihan",
     "max": 1,
     "second": 2,
     "third": 6,
@@ -373,7 +66,117 @@
     "subtitle": ""
   },
   {
-    "region": "Doubs",
+    "region": "Tarn",
+    "max": 1,
+    "second": 2,
+    "third": 7,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Savoie",
+    "max": 1,
+    "second": 2,
+    "third": 7,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Yvelines",
+    "max": 1,
+    "second": 2,
+    "third": 6,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "Parti socialiste",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Marne",
+    "max": 1,
+    "second": 2,
+    "third": 7,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Lot",
+    "max": 1,
+    "second": 2,
+    "third": 7,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Tarn-et-Garonne",
+    "max": 1,
+    "second": 2,
+    "third": 7,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Gironde",
+    "max": 1,
+    "second": 2,
+    "third": 7,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Seine-Maritime",
+    "max": 1,
+    "second": 2,
+    "third": 7,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Haute-Garonne",
+    "max": 1,
+    "second": 7,
+    "third": 2,
+    "maxname": "La République en marche",
+    "secondname": "La France insoumise",
+    "thirdname": "Front National",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Bas-Rhin",
+    "max": 1,
+    "second": 2,
+    "third": 7,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Gers",
     "max": 1,
     "second": 2,
     "third": 7,
@@ -387,6 +190,17 @@
     "region": "Rhône",
     "max": 1,
     "second": 2,
+    "third": 7,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Val-de-Marne",
+    "max": 1,
+    "second": 2,
     "third": 6,
     "maxname": "La République en marche",
     "secondname": "Front National",
@@ -395,7 +209,7 @@
     "subtitle": ""
   },
   {
-    "region": "Charente",
+    "region": "Gard",
     "max": 1,
     "second": 2,
     "third": 7,
@@ -406,7 +220,29 @@
     "subtitle": ""
   },
   {
-    "region": "Vaucluse",
+    "region": "Creuse",
+    "max": 1,
+    "second": 2,
+    "third": 7,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Drôme",
+    "max": 1,
+    "second": 2,
+    "third": 7,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Bouches-du-Rhône",
     "max": 1,
     "second": 2,
     "third": 7,
@@ -428,7 +264,51 @@
     "subtitle": ""
   },
   {
-    "region": "Alpes-Maritimes",
+    "region": "Indre-et-Loire",
+    "max": 2,
+    "second": 1,
+    "third": 7,
+    "maxname": "Front National",
+    "secondname": "La République en marche",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Ille-et-Vilaine",
+    "max": 1,
+    "second": 7,
+    "third": 2,
+    "maxname": "La République en marche",
+    "secondname": "La France insoumise",
+    "thirdname": "Front National",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Vaucluse",
+    "max": 1,
+    "second": 2,
+    "third": 7,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Loire",
+    "max": 1,
+    "second": 2,
+    "third": 7,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Orne",
     "max": 1,
     "second": 2,
     "third": 6,
@@ -439,7 +319,18 @@
     "subtitle": ""
   },
   {
-    "region": "Vendée",
+    "region": "Cantal",
+    "max": 1,
+    "second": 7,
+    "third": 2,
+    "maxname": "La République en marche",
+    "secondname": "La France insoumise",
+    "thirdname": "Front National",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Vosges",
     "max": 1,
     "second": 2,
     "third": 6,
@@ -450,13 +341,46 @@
     "subtitle": ""
   },
   {
-    "region": "Loiret",
+    "region": "Sarthe",
     "max": 1,
     "second": 2,
-    "third": 6,
+    "third": 7,
     "maxname": "La République en marche",
     "secondname": "Front National",
-    "thirdname": "Parti socialiste",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Maine-et-Loire",
+    "max": 1,
+    "second": 2,
+    "third": 7,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Allier",
+    "max": 1,
+    "second": 2,
+    "third": 7,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Loire-Atlantique",
+    "max": 1,
+    "second": 2,
+    "third": 7,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
     "title": "Les partis les plus recherchés près de chez vous",
     "subtitle": ""
   },
@@ -472,29 +396,7 @@
     "subtitle": ""
   },
   {
-    "region": "Côte-d'Or",
-    "max": 1,
-    "second": 2,
-    "third": 7,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "La France insoumise",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Loire",
-    "max": 1,
-    "second": 2,
-    "third": 6,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "Parti socialiste",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Nord",
+    "region": "Seine-et-Marne",
     "max": 1,
     "second": 2,
     "third": 6,
@@ -516,7 +418,7 @@
     "subtitle": ""
   },
   {
-    "region": "Calvados",
+    "region": "Var",
     "max": 1,
     "second": 2,
     "third": 7,
@@ -527,7 +429,51 @@
     "subtitle": ""
   },
   {
-    "region": "Seine-et-Marne",
+    "region": "Doubs",
+    "max": 1,
+    "second": 2,
+    "third": 7,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Loiret",
+    "max": 1,
+    "second": 2,
+    "third": 7,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Meurthe-et-Moselle",
+    "max": 1,
+    "second": 2,
+    "third": 7,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Finistère",
+    "max": 1,
+    "second": 2,
+    "third": 7,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Nord",
     "max": 1,
     "second": 2,
     "third": 6,
@@ -538,29 +484,7 @@
     "subtitle": ""
   },
   {
-    "region": "Pyrénées-Atlantiques",
-    "max": 1,
-    "second": 2,
-    "third": 7,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "La France insoumise",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Saône-et-Loire",
-    "max": 1,
-    "second": 2,
-    "third": 7,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "La France insoumise",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Manche",
+    "region": "Alpes-Maritimes",
     "max": 1,
     "second": 2,
     "third": 6,
@@ -571,7 +495,7 @@
     "subtitle": ""
   },
   {
-    "region": "Hautes-Pyrénées",
+    "region": "Vienne",
     "max": 1,
     "second": 2,
     "third": 7,
@@ -582,35 +506,13 @@
     "subtitle": ""
   },
   {
-    "region": "Jura",
-    "max": 1,
-    "second": 2,
-    "third": 4,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "Les Républicains",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Côtes-d'Armor",
+    "region": "Deux-Sèvres",
     "max": 1,
     "second": 2,
     "third": 6,
     "maxname": "La République en marche",
     "secondname": "Front National",
     "thirdname": "Parti socialiste",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Ariège",
-    "max": 1,
-    "second": 6,
-    "third": 2,
-    "maxname": "La République en marche",
-    "secondname": "Parti socialiste",
-    "thirdname": "Front National",
     "title": "Les partis les plus recherchés près de chez vous",
     "subtitle": ""
   },
@@ -626,167 +528,13 @@
     "subtitle": ""
   },
   {
-    "region": "Hautes-Alpes",
-    "max": 1,
-    "second": 2,
-    "third": 6,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "Parti socialiste",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Aude",
-    "max": 2,
-    "second": 1,
-    "third": 7,
-    "maxname": "Front National",
-    "secondname": "La République en marche",
-    "thirdname": "La France insoumise",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Meurthe-et-Moselle",
-    "max": 2,
-    "second": 1,
-    "third": 6,
-    "maxname": "Front National",
-    "secondname": "La République en marche",
-    "thirdname": "Parti socialiste",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Nièvre",
-    "max": 1,
-    "second": 2,
-    "third": 6,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "Parti socialiste",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Indre",
-    "max": 1,
-    "second": 2,
-    "third": 6,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "Parti socialiste",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Isère",
+    "region": "Côte-d'Or",
     "max": 1,
     "second": 2,
     "third": 7,
     "maxname": "La République en marche",
     "secondname": "Front National",
     "thirdname": "La France insoumise",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Lot-et-Garonne",
-    "max": 2,
-    "second": 1,
-    "third": 6,
-    "maxname": "Front National",
-    "secondname": "La République en marche",
-    "thirdname": "Parti socialiste",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Val-d'Oise",
-    "max": 1,
-    "second": 2,
-    "third": 6,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "Parti socialiste",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Mayenne",
-    "max": 1,
-    "second": 2,
-    "third": 7,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "La France insoumise",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Ain",
-    "max": 1,
-    "second": 2,
-    "third": 6,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "Parti socialiste",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Orne",
-    "max": 1,
-    "second": 2,
-    "third": 7,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "La France insoumise",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Cher",
-    "max": 1,
-    "second": 2,
-    "third": 6,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "Parti socialiste",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Oise",
-    "max": 1,
-    "second": 2,
-    "third": 6,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "Parti socialiste",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Tarn-et-Garonne",
-    "max": 2,
-    "second": 1,
-    "third": 7,
-    "maxname": "Front National",
-    "secondname": "La République en marche",
-    "thirdname": "La France insoumise",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Seine-Saint-Denis",
-    "max": 1,
-    "second": 2,
-    "third": 6,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "Parti socialiste",
     "title": "Les partis les plus recherchés près de chez vous",
     "subtitle": ""
   },
@@ -802,7 +550,7 @@
     "subtitle": ""
   },
   {
-    "region": "Gard",
+    "region": "Ardèche",
     "max": 1,
     "second": 2,
     "third": 7,
@@ -813,73 +561,7 @@
     "subtitle": ""
   },
   {
-    "region": "Corse-du-Sud",
-    "max": 1,
-    "second": 2,
-    "third": 4,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "Les Républicains",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Territoire de Belfort",
-    "max": 2,
-    "second": 1,
-    "third": 7,
-    "maxname": "Front National",
-    "secondname": "La République en marche",
-    "thirdname": "La France insoumise",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Moselle",
-    "max": 1,
-    "second": 2,
-    "third": 6,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "Parti socialiste",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Aube",
-    "max": 2,
-    "second": 1,
-    "third": 6,
-    "maxname": "Front National",
-    "secondname": "La République en marche",
-    "thirdname": "Parti socialiste",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Eure",
-    "max": 1,
-    "second": 2,
-    "third": 6,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "Parti socialiste",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Alpes-de-Haute-Provence",
-    "max": 2,
-    "second": 1,
-    "third": 7,
-    "maxname": "Front National",
-    "secondname": "La République en marche",
-    "thirdname": "La France insoumise",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Corrèze",
+    "region": "Puy-de-Dôme",
     "max": 1,
     "second": 2,
     "third": 7,
@@ -890,7 +572,73 @@
     "subtitle": ""
   },
   {
-    "region": "Aveyron",
+    "region": "Vendée",
+    "max": 1,
+    "second": 2,
+    "third": 7,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Isère",
+    "max": 1,
+    "second": 2,
+    "third": 7,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Pyrénées-Atlantiques",
+    "max": 1,
+    "second": 2,
+    "third": 7,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Val-d'Oise",
+    "max": 1,
+    "second": 2,
+    "third": 7,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Mayenne",
+    "max": 1,
+    "second": 7,
+    "third": 2,
+    "maxname": "La République en marche",
+    "secondname": "La France insoumise",
+    "thirdname": "Front National",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Saône-et-Loire",
+    "max": 1,
+    "second": 2,
+    "third": 7,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Charente",
     "max": 1,
     "second": 2,
     "third": 7,
@@ -912,6 +660,28 @@
     "subtitle": ""
   },
   {
+    "region": "Aude",
+    "max": 2,
+    "second": 1,
+    "third": 7,
+    "maxname": "Front National",
+    "secondname": "La République en marche",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Aveyron",
+    "max": 1,
+    "second": 2,
+    "third": 7,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
     "region": "Haute-Saône",
     "max": 2,
     "second": 1,
@@ -923,18 +693,205 @@
     "subtitle": ""
   },
   {
-    "region": "Somme",
+    "region": "Hautes-Alpes",
+    "max": 1,
+    "second": 2,
+    "third": 7,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Hautes-Pyrénées",
+    "max": 1,
+    "second": 2,
+    "third": 7,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Ariège",
     "max": 2,
     "second": 1,
-    "third": 6,
+    "third": 7,
     "maxname": "Front National",
     "secondname": "La République en marche",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Calvados",
+    "max": 1,
+    "second": 2,
+    "third": 7,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Moselle",
+    "max": 1,
+    "second": 2,
+    "third": 6,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
     "thirdname": "Parti socialiste",
     "title": "Les partis les plus recherchés près de chez vous",
     "subtitle": ""
   },
   {
+    "region": "Somme",
+    "max": 2,
+    "second": 1,
+    "third": 7,
+    "maxname": "Front National",
+    "secondname": "La République en marche",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Nièvre",
+    "max": 1,
+    "second": 2,
+    "third": 6,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "Parti socialiste",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Ain",
+    "max": 1,
+    "second": 2,
+    "third": 6,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "Parti socialiste",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Manche",
+    "max": 1,
+    "second": 2,
+    "third": 7,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Corrèze",
+    "max": 1,
+    "second": 2,
+    "third": 7,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Côtes-d'Armor",
+    "max": 1,
+    "second": 2,
+    "third": 6,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "Parti socialiste",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Seine-Saint-Denis",
+    "max": 1,
+    "second": 2,
+    "third": 7,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Cher",
+    "max": 2,
+    "second": 1,
+    "third": 7,
+    "maxname": "Front National",
+    "secondname": "La République en marche",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
     "region": "Eure-et-Loir",
+    "max": 1,
+    "second": 2,
+    "third": 7,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Jura",
+    "max": 1,
+    "second": 2,
+    "third": 7,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Territoire de Belfort",
+    "max": 1,
+    "second": 2,
+    "third": 7,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Oise",
+    "max": 1,
+    "second": 7,
+    "third": 2,
+    "maxname": "La République en marche",
+    "secondname": "La France insoumise",
+    "thirdname": "Front National",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Eure",
+    "max": 1,
+    "second": 2,
+    "third": 7,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Corse-du-Sud",
     "max": 2,
     "second": 1,
     "third": 6,
@@ -956,7 +913,84 @@
     "subtitle": ""
   },
   {
+    "region": "Lot-et-Garonne",
+    "max": 2,
+    "second": 1,
+    "third": 7,
+    "maxname": "Front National",
+    "secondname": "La République en marche",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Dordogne",
+    "max": 1,
+    "second": 2,
+    "third": 7,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Aisne",
+    "max": 2,
+    "second": 1,
+    "third": 7,
+    "maxname": "Front National",
+    "secondname": "La République en marche",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
     "region": "Haut-Rhin",
+    "max": 1,
+    "second": 2,
+    "third": 6,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "Parti socialiste",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Yonne",
+    "max": 1,
+    "second": 2,
+    "third": 7,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Indre",
+    "max": 1,
+    "second": 2,
+    "third": 7,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Haute-Marne",
+    "max": 2,
+    "second": 1,
+    "third": 7,
+    "maxname": "Front National",
+    "secondname": "La République en marche",
+    "thirdname": "La France insoumise",
+    "title": "Les partis les plus recherchés près de chez vous",
+    "subtitle": ""
+  },
+  {
+    "region": "Aube",
     "max": 2,
     "second": 1,
     "third": 6,
@@ -978,7 +1012,7 @@
     "subtitle": ""
   },
   {
-    "region": "Aisne",
+    "region": "Alpes-de-Haute-Provence",
     "max": 2,
     "second": 1,
     "third": 7,
@@ -989,29 +1023,7 @@
     "subtitle": ""
   },
   {
-    "region": "Yonne",
-    "max": 1,
-    "second": 2,
-    "third": 6,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "Parti socialiste",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Haute-Marne",
-    "max": 2,
-    "second": 1,
-    "third": 7,
-    "maxname": "Front National",
-    "secondname": "La République en marche",
-    "thirdname": "La France insoumise",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Dordogne",
+    "region": "Meuse",
     "max": 2,
     "second": 1,
     "third": 7,
@@ -1025,21 +1037,10 @@
     "region": "Ardennes",
     "max": 2,
     "second": 1,
-    "third": 6,
+    "third": 7,
     "maxname": "Front National",
     "secondname": "La République en marche",
-    "thirdname": "Parti socialiste",
-    "title": "Les partis les plus recherchés près de chez vous",
-    "subtitle": ""
-  },
-  {
-    "region": "Meuse",
-    "max": 2,
-    "second": 1,
-    "third": 4,
-    "maxname": "Front National",
-    "secondname": "La République en marche",
-    "thirdname": "Les Républicains",
+    "thirdname": "La France insoumise",
     "title": "Les partis les plus recherchés près de chez vous",
     "subtitle": ""
   },
@@ -1047,21 +1048,21 @@
     "region": "Haute-Corse",
     "max": 2,
     "second": 1,
-    "third": 6,
+    "third": 7,
     "maxname": "Front National",
     "secondname": "La République en marche",
-    "thirdname": "Parti socialiste",
+    "thirdname": "La France insoumise",
     "title": "Les partis les plus recherchés près de chez vous",
     "subtitle": ""
   },
   {
     "region": "Guyane",
-    "max": 6,
+    "max": 1,
     "second": 7,
-    "third": 1,
-    "maxname": "Parti socialiste",
+    "third": 2,
+    "maxname": "La République en marche",
     "secondname": "La France insoumise",
-    "thirdname": "La République en marche",
+    "thirdname": "Front National",
     "title": "Les partis les plus recherchés près de chez vous",
     "subtitle": ""
   },
@@ -1069,43 +1070,43 @@
     "region": "Martinique",
     "max": 1,
     "second": 2,
-    "third": 6,
+    "third": 4,
     "maxname": "La République en marche",
     "secondname": "Front National",
-    "thirdname": "Parti socialiste",
+    "thirdname": "Les Républicains",
     "title": "Les partis les plus recherchés près de chez vous",
     "subtitle": ""
   },
   {
     "region": "Réunion",
     "max": 1,
-    "second": 2,
-    "third": 6,
+    "second": 7,
+    "third": 2,
     "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "Parti socialiste",
+    "secondname": "La France insoumise",
+    "thirdname": "Front National",
     "title": "Les partis les plus recherchés près de chez vous",
     "subtitle": ""
   },
   {
     "region": "Guadeloupe",
     "max": 1,
-    "second": 2,
-    "third": 6,
+    "second": 6,
+    "third": 7,
     "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "Parti socialiste",
+    "secondname": "Parti socialiste",
+    "thirdname": "La France insoumise",
     "title": "Les partis les plus recherchés près de chez vous",
     "subtitle": ""
   },
   {
     "region": "Mayotte",
     "max": 1,
-    "second": 2,
-    "third": 6,
+    "second": 7,
+    "third": 2,
     "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "Parti socialiste",
+    "secondname": "La France insoumise",
+    "thirdname": "Front National",
     "title": "Les partis les plus recherchés près de chez vous",
     "subtitle": ""
   }
