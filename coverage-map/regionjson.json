@@ -3,25 +3,25 @@
     "Region": "Guyane",
     "abbreviation": "GF",
     "max": 1,
-    "second": 6,
-    "third": 2,
+    "second": 2,
+    "third": 3,
     "maxname": "La République en marche",
-    "secondname": "Parti socialiste",
-    "thirdname": "Front National",
-    "title": "Élections législatives : les partis les plus recherchés depuis lundi dernier ",
-    "subtitle": ""
+    "secondname": "Front National",
+    "thirdname": "Debout la France",
+    "title": "Élections législatives : les partis les plus recherchés pendant le second tour ",
+    "subtitle": "France, entre 8H00 et 20H00"
   },
   {
     "Region": "Martinique",
     "abbreviation": "MQ",
-    "max": 6,
-    "second": 1,
-    "third": 2,
-    "maxname": "Parti socialiste",
-    "secondname": "La République en marche",
-    "thirdname": "Front National",
-    "title": "Élections législatives : les partis les plus recherchés depuis lundi dernier ",
-    "subtitle": ""
+    "max": 1,
+    "second": 2,
+    "third": 4,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "Les Républicains",
+    "title": "Élections législatives : les partis les plus recherchés pendant le second tour ",
+    "subtitle": "France, entre 8H00 et 20H00"
   },
   {
     "Region": "Guadeloupe",
@@ -32,20 +32,20 @@
     "maxname": "La République en marche",
     "secondname": "Parti socialiste",
     "thirdname": "Front National",
-    "title": "Élections législatives : les partis les plus recherchés depuis lundi dernier ",
-    "subtitle": ""
+    "title": "Élections législatives : les partis les plus recherchés pendant le second tour ",
+    "subtitle": "France, entre 8H00 et 20H00"
   },
   {
     "Region": "Mayotte",
     "abbreviation": "MT",
-    "max": 4,
-    "second": 5,
-    "third": 2,
-    "maxname": "Les Républicains",
-    "secondname": "Modem",
-    "thirdname": "Front National",
-    "title": "Élections législatives : les partis les plus recherchés depuis lundi dernier ",
-    "subtitle": ""
+    "max": 1,
+    "second": 2,
+    "third": 3,
+    "maxname": "La République en marche",
+    "secondname": "Front National",
+    "thirdname": "Debout la France",
+    "title": "Élections législatives : les partis les plus recherchés pendant le second tour ",
+    "subtitle": "France, entre 8H00 et 20H00"
   },
   {
     "Region": "Réunion",
@@ -56,20 +56,20 @@
     "maxname": "La République en marche",
     "secondname": "Front National",
     "thirdname": "Parti socialiste",
-    "title": "Élections législatives : les partis les plus recherchés depuis lundi dernier ",
-    "subtitle": ""
+    "title": "Élections législatives : les partis les plus recherchés pendant le second tour ",
+    "subtitle": "France, entre 8H00 et 20H00"
   },
   {
     "Region": "Auvergne-Rhône-Alpes",
     "abbreviation": "AR",
     "max": 1,
     "second": 2,
-    "third": 6,
+    "third": 7,
     "maxname": "La République en marche",
     "secondname": "Front National",
-    "thirdname": "Parti socialiste",
-    "title": "Élections législatives : les partis les plus recherchés depuis lundi dernier ",
-    "subtitle": ""
+    "thirdname": "La France insoumise",
+    "title": "Élections législatives : les partis les plus recherchés pendant le second tour ",
+    "subtitle": "France, entre 8H00 et 20H00"
   },
   {
     "Region": "Bourgogne-Franche-Comté",
@@ -80,20 +80,20 @@
     "maxname": "La République en marche",
     "secondname": "Front National",
     "thirdname": "Parti socialiste",
-    "title": "Élections législatives : les partis les plus recherchés depuis lundi dernier ",
-    "subtitle": ""
+    "title": "Élections législatives : les partis les plus recherchés pendant le second tour ",
+    "subtitle": "France, entre 8H00 et 20H00"
   },
   {
     "Region": "Bretagne",
     "abbreviation": "BT",
     "max": 1,
-    "second": 6,
-    "third": 2,
+    "second": 2,
+    "third": 7,
     "maxname": "La République en marche",
-    "secondname": "Parti socialiste",
-    "thirdname": "Front National",
-    "title": "Élections législatives : les partis les plus recherchés depuis lundi dernier ",
-    "subtitle": ""
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
+    "title": "Élections législatives : les partis les plus recherchés pendant le second tour ",
+    "subtitle": "France, entre 8H00 et 20H00"
   },
   {
     "Region": "Centre-Val de Loire",
@@ -104,8 +104,8 @@
     "maxname": "La République en marche",
     "secondname": "Front National",
     "thirdname": "Parti socialiste",
-    "title": "Élections législatives : les partis les plus recherchés depuis lundi dernier ",
-    "subtitle": ""
+    "title": "Élections législatives : les partis les plus recherchés pendant le second tour ",
+    "subtitle": "France, entre 8H00 et 20H00"
   },
   {
     "Region": "Corse",
@@ -116,80 +116,80 @@
     "maxname": "Front National",
     "secondname": "La République en marche",
     "thirdname": "Les Républicains",
-    "title": "Élections législatives : les partis les plus recherchés depuis lundi dernier ",
-    "subtitle": ""
+    "title": "Élections législatives : les partis les plus recherchés pendant le second tour ",
+    "subtitle": "France, entre 8H00 et 20H00"
   },
   {
     "Region": "Grand Est",
     "abbreviation": "GE",
-    "max": 1,
-    "second": 2,
+    "max": 2,
+    "second": 1,
     "third": 6,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
+    "maxname": "Front National",
+    "secondname": "La République en marche",
     "thirdname": "Parti socialiste",
-    "title": "Élections législatives : les partis les plus recherchés depuis lundi dernier ",
-    "subtitle": ""
+    "title": "Élections législatives : les partis les plus recherchés pendant le second tour ",
+    "subtitle": "France, entre 8H00 et 20H00"
   },
   {
     "Region": "Hauts-de-France",
     "abbreviation": "HF",
-    "max": 1,
-    "second": 2,
+    "max": 2,
+    "second": 1,
     "third": 6,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
+    "maxname": "Front National",
+    "secondname": "La République en marche",
     "thirdname": "Parti socialiste",
-    "title": "Élections législatives : les partis les plus recherchés depuis lundi dernier ",
-    "subtitle": ""
+    "title": "Élections législatives : les partis les plus recherchés pendant le second tour ",
+    "subtitle": "France, entre 8H00 et 20H00"
   },
   {
     "Region": "Île-de-France",
     "abbreviation": "IF",
     "max": 1,
-    "second": 6,
-    "third": 2,
+    "second": 2,
+    "third": 7,
     "maxname": "La République en marche",
-    "secondname": "Parti socialiste",
-    "thirdname": "Front National",
-    "title": "Élections législatives : les partis les plus recherchés depuis lundi dernier ",
-    "subtitle": ""
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
+    "title": "Élections législatives : les partis les plus recherchés pendant le second tour ",
+    "subtitle": "France, entre 8H00 et 20H00"
   },
   {
     "Region": "Nouvelle-Aquitaine",
     "abbreviation": "NQ",
     "max": 1,
-    "second": 6,
-    "third": 2,
+    "second": 2,
+    "third": 7,
     "maxname": "La République en marche",
-    "secondname": "Parti socialiste",
-    "thirdname": "Front National",
-    "title": "Élections législatives : les partis les plus recherchés depuis lundi dernier ",
-    "subtitle": ""
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
+    "title": "Élections législatives : les partis les plus recherchés pendant le second tour ",
+    "subtitle": "France, entre 8H00 et 20H00"
   },
   {
     "Region": "Pays de la Loire",
     "abbreviation": "PL",
     "max": 1,
-    "second": 6,
-    "third": 2,
+    "second": 2,
+    "third": 7,
     "maxname": "La République en marche",
-    "secondname": "Parti socialiste",
-    "thirdname": "Front National",
-    "title": "Élections législatives : les partis les plus recherchés depuis lundi dernier ",
-    "subtitle": ""
+    "secondname": "Front National",
+    "thirdname": "La France insoumise",
+    "title": "Élections législatives : les partis les plus recherchés pendant le second tour ",
+    "subtitle": "France, entre 8H00 et 20H00"
   },
   {
     "Region": "PACA",
     "abbreviation": "PR",
-    "max": 1,
-    "second": 2,
-    "third": 6,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "Parti socialiste",
-    "title": "Élections législatives : les partis les plus recherchés depuis lundi dernier ",
-    "subtitle": ""
+    "max": 2,
+    "second": 1,
+    "third": 7,
+    "maxname": "Front National",
+    "secondname": "La République en marche",
+    "thirdname": "La France insoumise",
+    "title": "Élections législatives : les partis les plus recherchés pendant le second tour ",
+    "subtitle": "France, entre 8H00 et 20H00"
   },
   {
     "Region": "Normandie",
@@ -200,31 +200,31 @@
     "maxname": "La République en marche",
     "secondname": "Front National",
     "thirdname": "Parti socialiste",
-    "title": "Élections législatives : les partis les plus recherchés depuis lundi dernier ",
-    "subtitle": ""
+    "title": "Élections législatives : les partis les plus recherchés pendant le second tour ",
+    "subtitle": "France, entre 8H00 et 20H00"
   },
   {
     "Region": "Occitanie",
     "abbreviation": "OC",
-    "max": 1,
-    "second": 2,
-    "third": 6,
-    "maxname": "La République en marche",
-    "secondname": "Front National",
-    "thirdname": "Parti socialiste",
-    "title": "Élections législatives : les partis les plus recherchés depuis lundi dernier ",
-    "subtitle": ""
+    "max": 2,
+    "second": 1,
+    "third": 7,
+    "maxname": "Front National",
+    "secondname": "La République en marche",
+    "thirdname": "La France insoumise",
+    "title": "Élections législatives : les partis les plus recherchés pendant le second tour ",
+    "subtitle": "France, entre 8H00 et 20H00"
   },
   {
     "Region": "Auvergne-Rhône-Alpes",
     "abbreviation": "AR",
     "max": 1,
     "second": 2,
-    "third": 6,
+    "third": 7,
     "maxname": "La République en marche",
     "secondname": "Front National",
-    "thirdname": "Parti socialiste",
-    "title": "Élections législatives : les partis les plus recherchés depuis lundi dernier ",
-    "subtitle": ""
+    "thirdname": "La France insoumise",
+    "title": "Élections législatives : les partis les plus recherchés pendant le second tour ",
+    "subtitle": "France, entre 8H00 et 20H00"
   }
 ]
