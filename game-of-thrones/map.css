@@ -1,0 +1,315 @@
+
+        body {
+            color: black;
+            font-family: Helvetica, Arial, sans-serif;
+            background-color: white;
+        }
+
+        h1 {
+            font-size: 30px;
+            margin: auto;
+            margin-top: 50px;
+            color:black;
+        }
+
+/* Defines top padding of map    */
+
+        .header-container{
+        padding-top: 60px;
+        }
+
+                @media (max-width: 800px) {
+
+       .header-container{
+        padding-top: 20px;
+        }
+
+       }
+
+/* Defines padding left of map    */
+
+        .second-container{
+        padding-left: 60px;
+        }
+
+        @media (max-width: 800px) {
+
+         .second-container{
+         padding-left: 0px;
+
+         }
+
+       }
+
+
+        /* Specific mapael css class are below
+         * 'mapael' class is added by plugin
+        */
+
+        .mapael .map {
+            position: relative;
+            left:0px;
+        }
+
+        @media (min-width: 1020px) { .mapael .map{
+          position: relative;
+            left:-50px;
+
+        }}
+
+        @media (max-width: 1000px) {
+
+                  .mapael .map {
+            left:-20px;
+        }
+
+        }
+
+      @media (max-width: 618px) {
+
+                  .mapael .map {
+            position: relative;
+            left:20px;
+        }
+
+        }
+
+
+
+        .mapael .mapTooltip {
+            position: absolute;
+            background-color: #fff;
+            moz-opacity: 0.70;
+            opacity: 1;
+            filter: alpha(opacity=100);
+            border-radius: 10px;
+            padding: 10px;
+            z-index: 1000;
+            max-width: 150px;
+            display: none;
+            color: #343434;
+        }
+
+      @media (max-width: 600px) {
+      .mapael .mapTooltip {
+      max-width: 100px;
+      font-size: 12px;
+      }
+    }
+
+           /* Boxes sixe of legend
+        */
+
+         .box {
+         width:20px;
+         height:20px;
+         left:0px;
+         position:relative;
+    }
+
+          @media (max-width: 1000px) {
+        .box {
+         width:10px;
+         height:10px;
+      }
+    }
+
+
+
+
+    .box1{background-color:#A53F2B; display: inline-block;}
+    .box2{background-color:#CCC9A1; display: inline-block;}
+    .box3{background-color:#F5FFDF; display: inline-block;}
+    .box4{background-color:#4C230A; display: inline-block;}
+    .box5{background-color:#765C5F; display: inline-block;}
+    .box6{background-color:#DEDCC3; display: inline-block;}
+    .box7{background-color:#F8FFEA; display: inline-block;}
+    .box8{background-color:#C58478; display: inline-block;}
+    .box9{background-color:#8D7363; display: inline-block;}
+    .box10{background-color:#A79799; display: inline-block;}
+    .box11{background-color:#959376; display: inline-block;}
+    .box12{background-color:#B3BAA3; display: inline-block;}
+    .box13{background-color:#792E20; display: inline-block;}
+    .box14{background-color:#381A08; display: inline-block;}
+    .box15{background-color:#564346; display: inline-block;}
+    .box16{background-color:#37362B; display: inline-block;}
+    .box17{background-color:#42443C; display: inline-block;}
+    .box18{background-color:#2C110C; display: inline-block;}
+    .box19{background-color:#150A03; display: inline-block;}
+    .box20{background-color:#20191A; display: inline-block;}
+    .box21{background-color:#D8D7CD; display: inline-block;}
+    .box22{background-color:#E3E5DD; display: inline-block;}
+    .box23{background-color:#CEB3AD; display: inline-block;}
+    .box24{background-color:#B6ABA5; display: inline-block;}
+
+
+        #legend {
+        position:relative;
+        top: 0px;
+        left:-50px;
+        display: inline-block;
+        background-color: rgba(255, 255, 255, 0.6);
+        padding-right: 20px;
+        padding-bottom: 15px;
+        padding-left: -50px;
+        background-color: transparent;
+        color:"white";
+      }
+
+              .mapael .map {
+            position: relative;
+            left:-50px;
+        }
+
+        @media (max-width: 1000px) {
+
+                  #legend {
+            left:-10px;
+            background-color: transparent;
+        }
+
+        }
+
+
+
+    /*Text of legend*/
+    #legend p {
+                font-family: 'Roboto', sans-serif; 
+                font-size: 16px;
+                margin-bottom: 0px !important;
+                line-height: 20px;
+                display: inline-block;
+                padding-left: 10px;
+      }
+
+    @media (max-width: 1100px) {
+      #legend p {
+      font-size: 12px;
+      }
+
+        #legend {
+        position:relative;
+        top: -40px;
+        left:0px;
+        display: inline-block;
+        background-color: rgba(255, 255, 255, 0.6);
+        padding-right: 20px;
+        padding-bottom: 15px;
+        padding-left: -50px;
+      }
+    }
+
+          /*Header Container */
+    #header {
+          padding-left: 0px;
+          padding-bottom: 10px; 
+    }
+
+    /*Main text in header*/
+
+    h1.title {
+          font-family: 'Roboto condensed', sans-serif; 
+          font-size: 33px;
+          margin-bottom: 0px !important;
+          line-height: 37px;
+          display: inline;
+          color: "black";
+          text-transform: uppercase;
+    }
+
+     @media (max-width: 1100px) {
+      h1.title {
+      font-size: 22px;
+      line-height: 30px;
+      }
+    }
+
+      @media (max-width: 600px) {
+      h1.title {
+      font-size: 15px;
+      line-height: 12px;
+      }
+    }
+
+    /*Gray text in header*/
+    h2.subtitle {
+          font-family: 'Roboto', sans-serif;; 
+          font-size: 25px;
+          margin-bottom: 0px !important;
+          line-height: 37px;
+          display: inline;
+          color:gray;
+          font-weight: 400;
+          padding-left: 10px;
+          
+    }
+
+    @media (max-width: 1100px) {
+      h2.subtitle {
+      font-size: 20px;
+      }
+    }
+
+        @media (max-width: 600px) {
+      h2.subtitle {
+      font-size: 12px;
+      line-height: 8px;
+      }
+    }
+        h2.legendTitle {
+          font-family: 'Roboto', sans-serif;; 
+          font-size: 25px;
+          margin-bottom: 0px !important;
+          line-height: 37px;
+          color:black;
+          font-weight: 400;
+          padding-left: 10px;
+          
+    }
+
+      @media (max-width: 1100px) {
+      h2.legendTitle {
+      font-size: 18px;
+      }
+    }
+
+
+
+            /* For all zoom buttons */
+        .mapael .zoomButton {
+            background-color: #fff;
+            border: 1px solid #ccc;
+            color: #000;
+            width: 15px;
+            height: 15px;
+            line-height: 15px;
+            text-align: center;
+            border-radius: 3px;
+            cursor: pointer;
+            position: absolute;
+            top: 0;
+            font-weight: bold;
+            left: 10px;
+
+            -webkit-user-select: none;
+            -khtml-user-select : none;
+            -moz-user-select: none;
+            -o-user-select : none;
+            user-select: none;
+        }
+
+        /* Reset Zoom button first */
+        .mapael .zoomReset {
+            top: 10px;
+        }
+
+        /* Then Zoom In button */
+        .mapael .zoomIn {
+            top: 30px;
+        }
+
+        /* Then Zoom Out button */
+        .mapael .zoomOut {
+            top: 50px;
+        }
+
